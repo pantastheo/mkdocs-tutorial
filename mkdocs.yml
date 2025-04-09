@@ -10,4 +10,6 @@ markdown_extensions:
 plugins:
   - search
   - autolinks
+  - table-reader
+  - pdf-export
   
