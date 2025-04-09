@@ -317,15 +317,15 @@ gain of late current and can lead to a mixed phenotype of LQTS and BrS
 <p style="page-break-before: always;">
  
 </p>
-<h3>
-Catecholaminergic polymorphic ventricular tachycardia (CPVT)
-</h3>
-<h4>
-Atypical CPVT phenotype
-</h4>
-<h5>
-CALM1
-</h5>
+
+### Catecholaminergic polymorphic ventricular tachycardia (CPVT)
+
+
+#### Atypical CPVT phenotype
+
+
+##### CALM1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
