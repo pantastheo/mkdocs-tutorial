@@ -1,4 +1,9 @@
 site_name: Cardiac Gene2Phenotype Gene Panel
 theme:
   name: readthedocs
-  
+markdown_extensions:
+  - toc:
+      permalink: "#"
+      baselevel: 1
+      separator: "_"
+      
