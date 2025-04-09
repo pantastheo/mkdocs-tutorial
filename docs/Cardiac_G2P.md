@@ -1,18 +1,7 @@
-Gene2Phenotype Cardiac Gene Panel
+Cardiac Gene2Phenotype Gene Panel
 ================
 
-<style type="text/css">
-  #TOC {
-    max-width: 100%;
-  }
-  &#10;  div:has(> #TOC) {
-    display: flex;
-    flex-direction: row-reverse;
-}
-</style>
-
-## Overview
-
+# Overview
 
 CardiacG2P is an evidence-based dataset for inherited cardiac condition
 gene disease pairs. Each entry annotates a disease-associated gene with
@@ -25,9 +14,7 @@ locus.
 This dataset is also available through G2P
 <https://www.ebi.ac.uk/gene2phenotype>
 
-
-## Citation
-
+# Citation
 
 *Josephs, K.S., Roberts, A.M., Theotokis, P. et al. Beyond gene-disease
 validity: capturing structured data on inheritance, allelic requirement,
@@ -35,11 +22,11 @@ disease-relevant variant classes, and disease mechanism for inherited
 cardiac conditions. Genome Med 15, 86 (2023).*
 <https://doi.org/10.1186/s13073-023-01246-8>
 
-## Inherited Arrhythmia Syndromes
+# Inherited Arrhythmia Syndromes
 
-### Brugada Syndrome (BrS)
+## Brugada Syndrome (BrS)
 
-##### SCN5A
+#### SCN5A
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -160,11 +147,7 @@ NM_000335.5(SCN5A):c.3228+551T\>G (p.?)
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_region_variant; splice_acceptor_variant; splice_donor_variant;
@@ -315,13 +298,11 @@ gain of late current and can lead to a mixed phenotype of LQTS and BrS
  
 </p>
 
-### Catecholaminergic polymorphic ventricular tachycardia (CPVT)
+## Catecholaminergic polymorphic ventricular tachycardia (CPVT)
 
+### Atypical CPVT phenotype
 
-#### Atypical CPVT phenotype
-
-
-##### CALM1
+#### CALM1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -441,11 +422,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -612,9 +589,9 @@ genes.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CALM2
-</h5>
+
+#### CALM2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -733,11 +710,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -905,9 +878,9 @@ genes.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CALM3
-</h5>
+
+#### CALM3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -1026,11 +999,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -1198,9 +1167,9 @@ genes.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TECRL
-</h5>
+
+#### TECRL
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -1319,11 +1288,7 @@ Exon 2 deletion
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; stop_gained_NMD_triggering;
@@ -1449,9 +1414,9 @@ phenotypes are much more typical of CPVT than LQTS.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TRDN
-</h5>
+
+#### TRDN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -1570,11 +1535,7 @@ Exon 2 deletion
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; stop_gained_NMD_triggering;
@@ -1696,12 +1657,11 @@ This, ‘triadin knockout syndrome’ can lead to variable phenotypes.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Classic CPVT phenotype
-</h4>
-<h5>
-CASQ2
-</h5>
+
+### Classic CPVT phenotype
+
+#### CASQ2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -1820,11 +1780,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_region_variant; missense_variant; stop_gained_NMD_triggering;
@@ -1968,9 +1924,9 @@ positive individuals) (Gray et al, 2016, PMID: 27157848).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CASQ2
-</h5>
+
+#### CASQ2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -2089,11 +2045,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_region_variant; missense_variant; stop_gained_NMD_triggering;
@@ -2216,9 +2168,9 @@ missense variants with verified loss-of-function effects.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-RYR2
-</h5>
+
+#### RYR2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -2337,11 +2289,7 @@ Exon 3 deletion
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; exon_loss_variant
@@ -2478,15 +2426,13 @@ PMID: 26018045; Mazzarotto et al, 2021, PMID: 33500567).
 <p style="page-break-before: always;">
  
 </p>
-<h3>
-Long QT Syndrome (LQTS)
-</h3>
-<h4>
-Familial Long QT Syndrome
-</h4>
-<h5>
-KCNH2
-</h5>
+
+## Long QT Syndrome (LQTS)
+
+### Familial Long QT Syndrome
+
+#### KCNH2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -2605,11 +2551,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -2749,9 +2691,9 @@ cardiac events.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNQ1
-</h5>
+
+#### KCNQ1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -2870,11 +2812,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -3020,9 +2958,9 @@ e.g. transmembrane regions and C-terminus domains (PMID: 32893267;
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNQ1
-</h5>
+
+#### KCNQ1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -3141,11 +3079,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -3291,9 +3225,9 @@ e.g. transmembrane regions and C-terminus domains (PMID: 32893267;
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-SCN5A
-</h5>
+
+#### SCN5A
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -3412,11 +3346,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion; inframe_insertion
@@ -3551,9 +3481,9 @@ causing a mixed phenotype.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CACNA1C
-</h5>
+
+#### CACNA1C
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -3672,11 +3602,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -3789,12 +3715,11 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Long QT syndrome with an atypical presentation
-</h4>
-<h5>
-CALM1
-</h5>
+
+### Long QT syndrome with an atypical presentation
+
+#### CALM1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -3913,11 +3838,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -4071,9 +3992,9 @@ EF-hand III (n = 5, 56%), or in the inter-EF hand I-II linker (n = 3,
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CALM2
-</h5>
+
+#### CALM2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -4192,11 +4113,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -4350,9 +4267,9 @@ EF-hand III (n = 5, 56%), or in the inter-EF hand I-II linker (n = 3,
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CALM3
-</h5>
+
+#### CALM3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -4471,11 +4388,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -4629,9 +4542,9 @@ EF-hand III (n = 5, 56%), or in the inter-EF hand I-II linker (n = 3,
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TRDN
-</h5>
+
+#### TRDN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -4750,11 +4663,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 frameshift_variant_NMD_triggering
@@ -4886,12 +4795,11 @@ considered as pathogenic for LQTS.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Syndromic QT prolongation and cardiac arrhythmias
-</h4>
-<h5>
-CACNA1C
-</h5>
+
+### Syndromic QT prolongation and cardiac arrhythmias
+
+#### CACNA1C
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -5011,11 +4919,7 @@ has been described: NM_001167623.2(CACNA1C):c.1216G\>C (p.Gly406Arg)
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -5147,9 +5051,9 @@ an association between CACNA1C and LQTS as moderate (PMID: 31983240).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNE1
-</h5>
+
+#### KCNE1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -5268,11 +5172,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion; inframe_insertion;
@@ -5410,9 +5310,9 @@ classification.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNJ2
-</h5>
+
+#### KCNJ2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -5531,11 +5431,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion; inframe_insertion;
@@ -5667,9 +5563,9 @@ of greater or equal to 80%.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNQ1
-</h5>
+
+#### KCNQ1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -5788,11 +5684,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -5923,15 +5815,13 @@ JLNS.<br> Note: heterozygous variants in KCNQ1 lead to dominant LQTS.
 <p style="page-break-before: always;">
  
 </p>
-<h3>
-Short QT Syndrome (SQTS)
-</h3>
-<h4>
-Classic SQTS
-</h4>
-<h5>
-KCNH2
-</h5>
+
+## Short QT Syndrome (SQTS)
+
+### Classic SQTS
+
+#### KCNH2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -6050,11 +5940,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -6185,9 +6071,9 @@ loss-of-function variants in KCNH2 are associated with Long QT Syndrome
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNJ2
-</h5>
+
+#### KCNJ2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -6306,11 +6192,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -6433,9 +6315,9 @@ gene-disease validity can be found here:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNQ1
-</h5>
+
+#### KCNQ1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -6555,11 +6437,7 @@ Almost all evidence derived from: NM_000218.3(KCNQ1):c.421G\>A
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -6689,9 +6567,9 @@ KCNQ1 are associated with Long QT Syndrome (LQTS).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-SLC4A3
-</h5>
+
+#### SLC4A3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -6810,11 +6688,7 @@ NM_201574(SLC4A3):c.1109G\>A (p.Arg370His)
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -6941,12 +6815,11 @@ found here: <https://search.clinicalgenome.org/kb/genes/HGNC:11029>
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Syndrome including shortened QT and cardiac arrhythmias
-</h4>
-<h5>
-SLC22A5
-</h5>
+
+### Syndrome including shortened QT and cardiac arrhythmias
+
+#### SLC22A5
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -7065,11 +6938,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -7198,18 +7067,15 @@ ClinGen gene-disease validity can be found here:
 <p style="page-break-before: always;">
  
 </p>
-<h2>
-Cardiomyopathy
-</h2>
-<h3>
-Arrhythmogenic right ventricular cardiomyopathy (ARVC)
-</h3>
-<h4>
-Familial isolated arrhythmogenic cardiomyopathy
-</h4>
-<h5>
-DSC2
-</h5>
+
+# Cardiomyopathy
+
+## Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+
+### Familial isolated arrhythmogenic cardiomyopathy
+
+#### DSC2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -7328,11 +7194,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_region_variant; splice_acceptor_variant; splice_donor_variant;
@@ -7468,9 +7330,9 @@ involvement and heart failure when compared to PKP2-related ARVC (PMID:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSC2
-</h5>
+
+#### DSC2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -7589,11 +7451,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_region_variant; splice_acceptor_variant; splice_donor_variant;
@@ -7729,9 +7587,9 @@ involvement and heart failure when compared to PKP2-related ARVC (PMID:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSG2
-</h5>
+
+#### DSG2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -7850,11 +7708,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -7988,9 +7842,9 @@ and heart failure when compared to PKP2-related ARVC (PMID: 34400560;
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSG2
-</h5>
+
+#### DSG2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -8109,11 +7963,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -8247,9 +8097,9 @@ and heart failure when compared to PKP2-related ARVC (PMID: 34400560;
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSP
-</h5>
+
+#### DSP
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -8368,11 +8218,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -8533,9 +8379,9 @@ sarcoidosis (PMID: 32372669).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSP
-</h5>
+
+#### DSP
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -8654,11 +8500,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -8819,9 +8661,9 @@ sarcoidosis (PMID: 32372669).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PKP2
-</h5>
+
+#### PKP2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -8940,11 +8782,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_region_variant; splice_acceptor_variant; splice_donor_variant;
@@ -9085,9 +8923,9 @@ are classified as variants of uncertain significance.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TMEM43
-</h5>
+
+#### TMEM43
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -9206,11 +9044,7 @@ NM_024334.3(TMEM43):c.1073C\>T (p.Ser358Leu)
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -9346,9 +9180,9 @@ reported but their pathogenicity is debated.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DES
-</h5>
+
+#### DES
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -9467,11 +9301,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -9584,9 +9414,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PLN
-</h5>
+
+#### PLN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -9705,11 +9535,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -9822,12 +9648,11 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Rare familial disorder with ARVC
-</h4>
-<h5>
-JUP
-</h5>
+
+### Rare familial disorder with ARVC
+
+#### JUP
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -9946,11 +9771,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion; frameshift_variant_NMD_escaping
@@ -10102,15 +9923,13 @@ variants however their pathogenicity is still debated (PMID: 25820315;
 <p style="page-break-before: always;">
  
 </p>
-<h3>
-Dilated Cardiomyopathy (DCM)
-</h3>
-<h4>
-Familial Dilated Cardiomyopathy
-</h4>
-<h5>
-ACTC1
-</h5>
+
+## Dilated Cardiomyopathy (DCM)
+
+### Familial Dilated Cardiomyopathy
+
+#### ACTC1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -10229,11 +10048,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -10346,9 +10161,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-JPH2
-</h5>
+
+#### JPH2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -10467,11 +10282,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -10584,9 +10395,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-NEXN
-</h5>
+
+#### NEXN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -10705,11 +10516,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -10822,9 +10629,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNI3
-</h5>
+
+#### TNNI3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -10943,11 +10750,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -11060,9 +10863,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TPM1
-</h5>
+
+#### TPM1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -11181,11 +10984,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -11298,9 +11097,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-VCL
-</h5>
+
+#### VCL
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -11419,11 +11218,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -11536,12 +11331,11 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Familial dilated cardiomyopathy
-</h4>
-<h5>
-BAG3
-</h5>
+
+### Familial dilated cardiomyopathy
+
+#### BAG3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -11660,11 +11454,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -11793,9 +11583,9 @@ dominant trait, characterised by incomplete penetrance.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DES
-</h5>
+
+#### DES
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -11914,11 +11704,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; splice_acceptor_variant_NMD_escaping
@@ -12041,9 +11827,9 @@ a very small proportion (estimated 2%) of genetically-explained DCM
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSP
-</h5>
+
+#### DSP
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -12162,11 +11948,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 frameshift_variant; missense_variant; stop_gained_NMD_triggering;
@@ -12293,9 +12075,9 @@ appear to be distinct mechanisms leading to different phenotypes
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-FLNC
-</h5>
+
+#### FLNC
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -12414,11 +12196,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -12549,9 +12327,9 @@ of onset in the late 4th or early 5th decade, +/- 10-15 years.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-LMNA
-</h5>
+
+#### LMNA
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -12670,11 +12448,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 frameshift_variant; missense_variant; stop_gained_NMD_triggering;
@@ -12808,9 +12582,9 @@ inheritance.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYH7
-</h5>
+
+#### MYH7
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -12929,11 +12703,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -13060,9 +12830,9 @@ additive effect resulting in more severe cardiomyopathic phenotypes.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PLN
-</h5>
+
+#### PLN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -13181,11 +12951,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 frameshift_variant; stop_gained; missense_variant; inframe_deletion;
@@ -13324,9 +13090,9 @@ variant classes associated needs to be undertaken.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-RBM20
-</h5>
+
+#### RBM20
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -13445,11 +13211,7 @@ There is a mutation hotspot in exon 9 (amino acids 634-638)
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; stop_gained_NMD_triggering
@@ -13577,9 +13339,9 @@ variant hotspot in exon 9 (RS motif, amino acids 634-638).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-SCN5A
-</h5>
+
+#### SCN5A
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -13698,11 +13460,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; stop_gained_NMD_triggering
@@ -13830,9 +13588,9 @@ also associated with Long QT syndrome.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNC1
-</h5>
+
+#### TNNC1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -13951,11 +13709,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -14081,9 +13835,9 @@ variants (PMID: 27604170).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNT2
-</h5>
+
+#### TNNT2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -14202,11 +13956,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -14328,9 +14078,9 @@ restrictive cardiomyopathies.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TTN
-</h5>
+
+#### TTN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -14453,11 +14203,7 @@ NM_001267550.2(TTN):c.11674T\>A (p.Cys3892Ser)
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -14592,15 +14338,13 @@ functional expression in cardiac tissue.
 <p style="page-break-before: always;">
  
 </p>
-<h3>
-Hypertrophic Cardiomyopathy (HCM)
-</h3>
-<h4>
-Familial hypertrophic cardiomyopathy
-</h4>
-<h5>
-ACTC1
-</h5>
+
+## Hypertrophic Cardiomyopathy (HCM)
+
+### Familial hypertrophic cardiomyopathy
+
+#### ACTC1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -14719,11 +14463,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion
@@ -14850,9 +14590,9 @@ duplications have not been described.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-ACTN2
-</h5>
+
+#### ACTN2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -14971,11 +14711,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 frameshift_variant_NMD_triggering; stop_gained_NMD_triggering;
@@ -15145,9 +14881,9 @@ Cardiovascular Disease Gene Curation Expert Panel. Review date:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-ALPK3
-</h5>
+
+#### ALPK3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -15266,11 +15002,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 stop_gained_variant; frameshift_variant; splice_donor_variant;
@@ -15415,9 +15147,9 @@ Curation Expert Panel. Review date: 17/03/2025
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CSRP3
-</h5>
+
+#### CSRP3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -15536,11 +15268,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 frameshift_variant_NMD_triggering; stop_gained_NMD_triggering;
@@ -15678,9 +15406,9 @@ Cardiovascular Disease Gene Curation Expert Panel. Review date:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CSRP3
-</h5>
+
+#### CSRP3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -15799,11 +15527,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 frameshift_variant_NMD_triggering; stop_gained_NMD_triggering;
@@ -15941,9 +15665,9 @@ Cardiovascular Disease Gene Curation Expert Panel. Review date:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-FHOD3
-</h5>
+
+#### FHOD3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -16062,11 +15786,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant_NMD_escaping; splice_donor_variant_NMD_escaping;
@@ -16206,9 +15926,9 @@ Gene Curation Expert Panel. Review date: 17/03/2025
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYBPC3
-</h5>
+
+#### MYBPC3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -16327,11 +16047,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_region_variant; splice_acceptor_variant; splice_donor_variant;
@@ -16475,9 +16191,9 @@ several MYBPC3 founder variants (PMID: 28912181; 27532257).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYH7
-</h5>
+
+#### MYH7
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -16596,11 +16312,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion; stop_gained_NMD_escaping
@@ -16739,9 +16451,9 @@ and HCM.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYL2
-</h5>
+
+#### MYL2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -16860,11 +16572,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -16999,9 +16707,9 @@ variants, odds ratio 9.1 (6.2-13.3) (PMID: 30696458).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYL3
-</h5>
+
+#### MYL3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -17120,11 +16828,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -17259,9 +16963,9 @@ variants in HCM at amino acid residues 143-180 (PMID: 30696458).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PLN
-</h5>
+
+#### PLN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -17380,11 +17084,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 frameshift_variant; stop_gained; missense_variant; inframe_deletion;
@@ -17523,9 +17223,9 @@ variant classes associated needs to be undertaken.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNC1
-</h5>
+
+#### TNNC1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -17644,11 +17344,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; frameshift_NMD_escaping
@@ -17776,9 +17472,9 @@ Panel. Review date: 17/03/2025
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNI3
-</h5>
+
+#### TNNI3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -17897,11 +17593,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion
@@ -18054,9 +17746,9 @@ variants in HCM at amino acid residues 141-209 (PMID: 30696458).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNT2
-</h5>
+
+#### TNNT2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -18175,11 +17867,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion; stop_gained_NMD_escaping;
@@ -18328,9 +18016,9 @@ acid residues 79 - 179) (PMID: 30696458).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TPM1
-</h5>
+
+#### TPM1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -18449,11 +18137,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -18591,9 +18275,9 @@ showed a high probability of pathogenicity. (PMID: 30696458)
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-JPH2
-</h5>
+
+#### JPH2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -18712,11 +18396,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -18829,9 +18509,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TRIM63
-</h5>
+
+#### TRIM63
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -18950,11 +18630,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -19067,9 +18743,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MT-TI
-</h5>
+
+#### MT-TI
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -19188,11 +18864,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -19305,9 +18977,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KLHL24
-</h5>
+
+#### KLHL24
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -19426,11 +19098,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 NA
@@ -19543,12 +19211,11 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
-</h4>
-<h5>
-ALPK3
-</h5>
+
+### Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
+
+#### ALPK3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -19667,11 +19334,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -19820,9 +19483,9 @@ alpha-kinase domain (PMID: 32480058).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CACNA1C
-</h5>
+
+#### CACNA1C
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -19942,11 +19605,7 @@ has been described: NM_001167623.2(CACNA1C):c.1216G\>C (p.Gly406Arg)
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -20092,9 +19751,9 @@ LQTS as moderate (PMID: 31983240).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DES
-</h5>
+
+#### DES
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -20213,11 +19872,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion; stop_gained_NMD_triggering;
@@ -20355,9 +20010,9 @@ heterozygous loss of function is tolerated.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DES
-</h5>
+
+#### DES
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -20476,11 +20131,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion; stop_gained_NMD_triggering;
@@ -20618,9 +20269,9 @@ heterozygous loss of function is tolerated.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-FHL1
-</h5>
+
+#### FHL1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -20739,11 +20390,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_region_variant; stop_lost; missense_variant;
@@ -20868,9 +20515,9 @@ isolated hypertrophic cardiomyopathy, without skeletal myopathy.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-FLNC
-</h5>
+
+#### FLNC
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -20989,11 +20636,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion; stop_gained_NMD_escaping
@@ -21117,9 +20760,9 @@ complicated by the presence of a pseudogene with \>98% homology.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-GLA
-</h5>
+
+#### GLA
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -21239,11 +20882,7 @@ recognised as pathogenic and leads to aberrant mRNA splicing
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -21393,9 +21032,9 @@ patients with GLA genetic variants of unknown significance.’ (PMID:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-LAMP2
-</h5>
+
+#### LAMP2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -21514,11 +21153,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_region_variant; start_lost; missense_variant;
@@ -21648,9 +21283,9 @@ involvement.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PRKAG2
-</h5>
+
+#### PRKAG2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -21769,11 +21404,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_insertion
@@ -21914,9 +21545,9 @@ patients included in the cohort (PMID: 32646569).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PTPN11
-</h5>
+
+#### PTPN11
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -22035,11 +21666,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion
@@ -22173,9 +21800,9 @@ metachondromatosis, caused by loss-of-function PTPN11 variants.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PTPN11
-</h5>
+
+#### PTPN11
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -22294,11 +21921,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -22427,9 +22050,9 @@ PTPN11 variants.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-RAF1
-</h5>
+
+#### RAF1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -22548,11 +22171,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion
@@ -22683,9 +22302,9 @@ that whole-gene duplications cause Noonan syndrome.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-RIT1
-</h5>
+
+#### RIT1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -22804,11 +22423,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -22932,9 +22547,9 @@ particularly in the switch II region.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TTR
-</h5>
+
+#### TTR
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -23053,11 +22668,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; inframe_deletion; inframe_insertion
@@ -23213,12 +22824,11 @@ including transthyretin gene silencers are currently under investigation
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Syndrome with hypertrophic cardiomyopathy - no isolated LVH
-</h4>
-<h5>
-ABCC9
-</h5>
+
+### Syndrome with hypertrophic cardiomyopathy - no isolated LVH
+
+#### ABCC9
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -23337,11 +22947,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -23486,9 +23092,9 @@ elucidated (PMIDs 33529173; 34453476).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-BAG3
-</h5>
+
+#### BAG3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -23607,11 +23213,7 @@ NM_004281.4(BAG3):c.626C\>T (p.Pro209Leu)
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant
@@ -23749,9 +23351,9 @@ inhibiting the activation of apoptosis (PMID 25728519).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CRYAB
-</h5>
+
+#### CRYAB
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -23870,11 +23472,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 missense_variant; stop_gained_NMD_escaping;
@@ -24003,9 +23601,9 @@ heterozygous parents of probands are reported as being healthy.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-FXN
-</h5>
+
+#### FXN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -24124,11 +23722,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_region_variant; start_lost; inframe_deletion; inframe_insertion;
@@ -24266,9 +23860,9 @@ loss of function.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-GAA
-</h5>
+
+#### GAA
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -24389,11 +23983,7 @@ affected with late onset disease (PMID 24150945; 7881425).
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_region_variant; splice_acceptor_variant_NMD_triggering;
@@ -24537,9 +24127,9 @@ ventricular hypertrophy (LVH).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYO6
-</h5>
+
+#### MYO6
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -24659,11 +24249,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -24810,9 +24396,9 @@ presenting with isolated LVH.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYO6
-</h5>
+
+#### MYO6
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -24932,11 +24518,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
@@ -25083,9 +24665,9 @@ presenting with isolated LVH.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-SLC25A4
-</h5>
+
+#### SLC25A4
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -25204,11 +24786,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;width: 6cm; ">
-
 Variant classes reported with evidence of pathogenicity
-
-[(Other potentially relevant variant
-classes)](#other-potentially-relevant-variant-classes)
 </td>
 <td style="text-align:left;">
 splice_donor_variant; missense_variant;
@@ -25344,7 +24922,7 @@ et al found that 3 previously reported recessive variants resulted in
  
 </p>
 
-## Other potentially relevant variant classes
+# Other potentially relevant variant classes
 
 Which variant classes should I filter for? The main table shows variant
 classes that have been reported to cause disease. We would expect other
