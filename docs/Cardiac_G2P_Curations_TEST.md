@@ -35,18 +35,12 @@ disease-relevant variant classes, and disease mechanism for inherited
 cardiac conditions. Genome Med 15, 86 (2023).*
 <https://doi.org/10.1186/s13073-023-01246-8>
 
-<h2>
-Inherited Arrhythmia Syndromes
-</h2>
- 
-<h3>
-Brugada Syndrome (BrS)
-</h3>
- 
-<h5>
-SCN5A
-</h5>
- 
+## Inherited Arrhythmia Syndromes
+
+### Brugada Syndrome (BrS)
+
+##### SCN5A
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -320,18 +314,13 @@ gain of late current and can lead to a mixed phenotype of LQTS and BrS
 <p style="page-break-before: always;">
  
 </p>
-<h3>
-Catecholaminergic polymorphic ventricular tachycardia (CPVT)
-</h3>
- 
-<h4>
-Atypical CPVT phenotype
-</h4>
- 
-<h5>
-CALM1
-</h5>
- 
+
+### Catecholaminergic polymorphic ventricular tachycardia (CPVT)
+
+#### Atypical CPVT phenotype
+
+##### CALM1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -621,10 +610,9 @@ genes.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CALM2
-</h5>
- 
+
+##### CALM2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -915,10 +903,9 @@ genes.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CALM3
-</h5>
- 
+
+##### CALM3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -1209,10 +1196,9 @@ genes.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TECRL
-</h5>
- 
+
+##### TECRL
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -1461,10 +1447,9 @@ phenotypes are much more typical of CPVT than LQTS.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TRDN
-</h5>
- 
+
+##### TRDN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -1709,14 +1694,11 @@ This, ‘triadin knockout syndrome’ can lead to variable phenotypes.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Classic CPVT phenotype
-</h4>
- 
-<h5>
-CASQ2
-</h5>
- 
+
+#### Classic CPVT phenotype
+
+##### CASQ2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -1983,10 +1965,9 @@ positive individuals) (Gray et al, 2016, PMID: 27157848).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CASQ2
-</h5>
- 
+
+##### CASQ2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -2232,10 +2213,9 @@ missense variants with verified loss-of-function effects.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-RYR2
-</h5>
- 
+
+##### RYR2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -2495,18 +2475,13 @@ PMID: 26018045; Mazzarotto et al, 2021, PMID: 33500567).
 <p style="page-break-before: always;">
  
 </p>
-<h3>
-Long QT Syndrome (LQTS)
-</h3>
- 
-<h4>
-Familial Long QT Syndrome
-</h4>
- 
-<h5>
-KCNH2
-</h5>
- 
+
+### Long QT Syndrome (LQTS)
+
+#### Familial Long QT Syndrome
+
+##### KCNH2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -2769,10 +2744,9 @@ cardiac events.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNQ1
-</h5>
- 
+
+##### KCNQ1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -3041,10 +3015,9 @@ e.g. transmembrane regions and C-terminus domains (PMID: 32893267;
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNQ1
-</h5>
- 
+
+##### KCNQ1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -3313,10 +3286,9 @@ e.g. transmembrane regions and C-terminus domains (PMID: 32893267;
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-SCN5A
-</h5>
- 
+
+##### SCN5A
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -3574,10 +3546,9 @@ causing a mixed phenotype.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CACNA1C
-</h5>
- 
+
+##### CACNA1C
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -3813,14 +3784,11 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Long QT syndrome with an atypical presentation
-</h4>
- 
-<h5>
-CALM1
-</h5>
- 
+
+#### Long QT syndrome with an atypical presentation
+
+##### CALM1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -4097,10 +4065,9 @@ EF-hand III (n = 5, 56%), or in the inter-EF hand I-II linker (n = 3,
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CALM2
-</h5>
- 
+
+##### CALM2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -4377,10 +4344,9 @@ EF-hand III (n = 5, 56%), or in the inter-EF hand I-II linker (n = 3,
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CALM3
-</h5>
- 
+
+##### CALM3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -4657,10 +4623,9 @@ EF-hand III (n = 5, 56%), or in the inter-EF hand I-II linker (n = 3,
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TRDN
-</h5>
- 
+
+##### TRDN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -4915,14 +4880,11 @@ considered as pathogenic for LQTS.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Syndromic QT prolongation and cardiac arrhythmias
-</h4>
- 
-<h5>
-CACNA1C
-</h5>
- 
+
+#### Syndromic QT prolongation and cardiac arrhythmias
+
+##### CACNA1C
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -5178,10 +5140,9 @@ an association between CACNA1C and LQTS as moderate (PMID: 31983240).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNE1
-</h5>
- 
+
+##### KCNE1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -5442,10 +5403,9 @@ classification.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNJ2
-</h5>
- 
+
+##### KCNJ2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -5700,10 +5660,9 @@ of greater or equal to 80%.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNQ1
-</h5>
- 
+
+##### KCNQ1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -5957,18 +5916,13 @@ JLNS.<br> Note: heterozygous variants in KCNQ1 lead to dominant LQTS.
 <p style="page-break-before: always;">
  
 </p>
-<h3>
-Short QT Syndrome (SQTS)
-</h3>
- 
-<h4>
-Classic SQTS
-</h4>
- 
-<h5>
-KCNH2
-</h5>
- 
+
+### Short QT Syndrome (SQTS)
+
+#### Classic SQTS
+
+##### KCNH2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -6222,10 +6176,9 @@ loss-of-function variants in KCNH2 are associated with Long QT Syndrome
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNJ2
-</h5>
- 
+
+##### KCNJ2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -6471,10 +6424,9 @@ gene-disease validity can be found here:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KCNQ1
-</h5>
- 
+
+##### KCNQ1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -6728,10 +6680,9 @@ KCNQ1 are associated with Long QT Syndrome (LQTS).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-SLC4A3
-</h5>
- 
+
+##### SLC4A3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -6981,14 +6932,11 @@ found here: <https://search.clinicalgenome.org/kb/genes/HGNC:11029>
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Syndrome including shortened QT and cardiac arrhythmias
-</h4>
- 
-<h5>
-SLC22A5
-</h5>
- 
+
+#### Syndrome including shortened QT and cardiac arrhythmias
+
+##### SLC22A5
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -7240,22 +7188,15 @@ ClinGen gene-disease validity can be found here:
 <p style="page-break-before: always;">
  
 </p>
-<h2>
-Cardiomyopathy
-</h2>
- 
-<h3>
-Arrhythmogenic right ventricular cardiomyopathy (ARVC)
-</h3>
- 
-<h4>
-Familial isolated arrhythmogenic cardiomyopathy
-</h4>
- 
-<h5>
-DSC2
-</h5>
- 
+
+## Cardiomyopathy
+
+### Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+
+#### Familial isolated arrhythmogenic cardiomyopathy
+
+##### DSC2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -7514,10 +7455,9 @@ involvement and heart failure when compared to PKP2-related ARVC (PMID:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSC2
-</h5>
- 
+
+##### DSC2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -7776,10 +7716,9 @@ involvement and heart failure when compared to PKP2-related ARVC (PMID:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSG2
-</h5>
- 
+
+##### DSG2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -8036,10 +7975,9 @@ and heart failure when compared to PKP2-related ARVC (PMID: 34400560;
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSG2
-</h5>
- 
+
+##### DSG2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -8296,10 +8234,9 @@ and heart failure when compared to PKP2-related ARVC (PMID: 34400560;
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSP
-</h5>
- 
+
+##### DSP
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -8583,10 +8520,9 @@ sarcoidosis (PMID: 32372669).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSP
-</h5>
- 
+
+##### DSP
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -8870,10 +8806,9 @@ sarcoidosis (PMID: 32372669).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PKP2
-</h5>
- 
+
+##### PKP2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -9137,10 +9072,9 @@ are classified as variants of uncertain significance.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TMEM43
-</h5>
- 
+
+##### TMEM43
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -9399,10 +9333,9 @@ reported but their pathogenicity is debated.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DES
-</h5>
- 
+
+##### DES
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -9638,10 +9571,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PLN
-</h5>
- 
+
+##### PLN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -9877,14 +9809,11 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Rare familial disorder with ARVC
-</h4>
- 
-<h5>
-JUP
-</h5>
- 
+
+#### Rare familial disorder with ARVC
+
+##### JUP
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -10159,18 +10088,13 @@ variants however their pathogenicity is still debated (PMID: 25820315;
 <p style="page-break-before: always;">
  
 </p>
-<h3>
-Dilated Cardiomyopathy (DCM)
-</h3>
- 
-<h4>
-Familial Dilated Cardiomyopathy
-</h4>
- 
-<h5>
-ACTC1
-</h5>
- 
+
+### Dilated Cardiomyopathy (DCM)
+
+#### Familial Dilated Cardiomyopathy
+
+##### ACTC1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -10406,10 +10330,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-JPH2
-</h5>
- 
+
+##### JPH2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -10645,10 +10568,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-NEXN
-</h5>
- 
+
+##### NEXN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -10884,10 +10806,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNI3
-</h5>
- 
+
+##### TNNI3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -11123,10 +11044,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TPM1
-</h5>
- 
+
+##### TPM1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -11362,10 +11282,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-VCL
-</h5>
- 
+
+##### VCL
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -11601,14 +11520,11 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Familial dilated cardiomyopathy
-</h4>
- 
-<h5>
-BAG3
-</h5>
- 
+
+#### Familial dilated cardiomyopathy
+
+##### BAG3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -11860,10 +11776,9 @@ dominant trait, characterised by incomplete penetrance.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DES
-</h5>
- 
+
+##### DES
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -12109,10 +12024,9 @@ a very small proportion (estimated 2%) of genetically-explained DCM
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DSP
-</h5>
- 
+
+##### DSP
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -12362,10 +12276,9 @@ appear to be distinct mechanisms leading to different phenotypes
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-FLNC
-</h5>
- 
+
+##### FLNC
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -12619,10 +12532,9 @@ of onset in the late 4th or early 5th decade, +/- 10-15 years.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-LMNA
-</h5>
- 
+
+##### LMNA
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -12879,10 +12791,9 @@ inheritance.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYH7
-</h5>
- 
+
+##### MYH7
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -13132,10 +13043,9 @@ additive effect resulting in more severe cardiomyopathic phenotypes.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PLN
-</h5>
- 
+
+##### PLN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -13397,10 +13307,9 @@ variant classes associated needs to be undertaken.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-RBM20
-</h5>
- 
+
+##### RBM20
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -13651,10 +13560,9 @@ variant hotspot in exon 9 (RS motif, amino acids 634-638).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-SCN5A
-</h5>
- 
+
+##### SCN5A
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -13905,10 +13813,9 @@ also associated with Long QT syndrome.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNC1
-</h5>
- 
+
+##### TNNC1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -14157,10 +14064,9 @@ variants (PMID: 27604170).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNT2
-</h5>
- 
+
+##### TNNT2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -14405,10 +14311,9 @@ restrictive cardiomyopathies.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TTN
-</h5>
- 
+
+##### TTN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -14670,18 +14575,13 @@ functional expression in cardiac tissue.
 <p style="page-break-before: always;">
  
 </p>
-<h3>
-Hypertrophic Cardiomyopathy (HCM)
-</h3>
- 
-<h4>
-Familial hypertrophic cardiomyopathy
-</h4>
- 
-<h5>
-ACTC1
-</h5>
- 
+
+### Hypertrophic Cardiomyopathy (HCM)
+
+#### Familial hypertrophic cardiomyopathy
+
+##### ACTC1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -14931,10 +14831,9 @@ duplications have not been described.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-ACTN2
-</h5>
- 
+
+##### ACTN2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -15227,10 +15126,9 @@ Cardiovascular Disease Gene Curation Expert Panel. Review date:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-ALPK3
-</h5>
- 
+
+##### ALPK3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -15498,10 +15396,9 @@ Curation Expert Panel. Review date: 17/03/2025
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CSRP3
-</h5>
- 
+
+##### CSRP3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -15762,10 +15659,9 @@ Cardiovascular Disease Gene Curation Expert Panel. Review date:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CSRP3
-</h5>
- 
+
+##### CSRP3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -16026,10 +15922,9 @@ Cardiovascular Disease Gene Curation Expert Panel. Review date:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-FHOD3
-</h5>
- 
+
+##### FHOD3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -16292,10 +16187,9 @@ Gene Curation Expert Panel. Review date: 17/03/2025
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYBPC3
-</h5>
- 
+
+##### MYBPC3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -16562,10 +16456,9 @@ several MYBPC3 founder variants (PMID: 28912181; 27532257).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYH7
-</h5>
- 
+
+##### MYH7
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -16827,10 +16720,9 @@ and HCM.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYL2
-</h5>
- 
+
+##### MYL2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -17088,10 +16980,9 @@ variants, odds ratio 9.1 (6.2-13.3) (PMID: 30696458).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYL3
-</h5>
- 
+
+##### MYL3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -17349,10 +17240,9 @@ variants in HCM at amino acid residues 143-180 (PMID: 30696458).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PLN
-</h5>
- 
+
+##### PLN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -17614,10 +17504,9 @@ variant classes associated needs to be undertaken.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNC1
-</h5>
- 
+
+##### TNNC1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -17868,10 +17757,9 @@ Panel. Review date: 17/03/2025
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNI3
-</h5>
- 
+
+##### TNNI3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -18147,10 +18035,9 @@ variants in HCM at amino acid residues 141-209 (PMID: 30696458).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TNNT2
-</h5>
- 
+
+##### TNNT2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -18422,10 +18309,9 @@ acid residues 79 - 179) (PMID: 30696458).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TPM1
-</h5>
- 
+
+##### TPM1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -18686,10 +18572,9 @@ showed a high probability of pathogenicity. (PMID: 30696458)
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-JPH2
-</h5>
- 
+
+##### JPH2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -18925,10 +18810,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TRIM63
-</h5>
- 
+
+##### TRIM63
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -19164,10 +19048,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MT-TI
-</h5>
- 
+
+##### MT-TI
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -19403,10 +19286,9 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-KLHL24
-</h5>
- 
+
+##### KLHL24
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -19642,14 +19524,11 @@ established gene disease relationship.
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
-</h4>
- 
-<h5>
-ALPK3
-</h5>
- 
+
+#### Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
+
+##### ALPK3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -19921,10 +19800,9 @@ alpha-kinase domain (PMID: 32480058).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CACNA1C
-</h5>
- 
+
+##### CACNA1C
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -20194,10 +20072,9 @@ LQTS as moderate (PMID: 31983240).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DES
-</h5>
- 
+
+##### DES
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -20458,10 +20335,9 @@ heterozygous loss of function is tolerated.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-DES
-</h5>
- 
+
+##### DES
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -20722,10 +20598,9 @@ heterozygous loss of function is tolerated.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-FHL1
-</h5>
- 
+
+##### FHL1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -20973,10 +20848,9 @@ isolated hypertrophic cardiomyopathy, without skeletal myopathy.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-FLNC
-</h5>
- 
+
+##### FLNC
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -21223,10 +21097,9 @@ complicated by the presence of a pseudogene with \>98% homology.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-GLA
-</h5>
- 
+
+##### GLA
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -21500,10 +21373,9 @@ patients with GLA genetic variants of unknown significance.’ (PMID:
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-LAMP2
-</h5>
- 
+
+##### LAMP2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -21756,10 +21628,9 @@ involvement.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PRKAG2
-</h5>
- 
+
+##### PRKAG2
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -22023,10 +21894,9 @@ patients included in the cohort (PMID: 32646569).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PTPN11
-</h5>
- 
+
+##### PTPN11
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -22283,10 +22153,9 @@ metachondromatosis, caused by loss-of-function PTPN11 variants.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-PTPN11
-</h5>
- 
+
+##### PTPN11
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -22538,10 +22407,9 @@ PTPN11 variants.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-RAF1
-</h5>
- 
+
+##### RAF1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -22795,10 +22663,9 @@ that whole-gene duplications cause Noonan syndrome.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-RIT1
-</h5>
- 
+
+##### RIT1
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -23045,10 +22912,9 @@ particularly in the switch II region.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-TTR
-</h5>
- 
+
+##### TTR
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -23327,14 +23193,11 @@ including transthyretin gene silencers are currently under investigation
 <p style="page-break-before: always;">
  
 </p>
-<h4>
-Syndrome with hypertrophic cardiomyopathy - no isolated LVH
-</h4>
- 
-<h5>
-ABCC9
-</h5>
- 
+
+#### Syndrome with hypertrophic cardiomyopathy - no isolated LVH
+
+##### ABCC9
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -23602,10 +23465,9 @@ elucidated (PMIDs 33529173; 34453476).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-BAG3
-</h5>
- 
+
+##### BAG3
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -23866,10 +23728,9 @@ inhibiting the activation of apoptosis (PMID 25728519).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-CRYAB
-</h5>
- 
+
+##### CRYAB
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -24121,10 +23982,9 @@ heterozygous parents of probands are reported as being healthy.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-FXN
-</h5>
- 
+
+##### FXN
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -24385,10 +24245,9 @@ loss of function.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-GAA
-</h5>
- 
+
+##### GAA
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -24657,10 +24516,9 @@ ventricular hypertrophy (LVH).
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYO6
-</h5>
- 
+
+##### MYO6
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -24931,10 +24789,9 @@ presenting with isolated LVH.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-MYO6
-</h5>
- 
+
+##### MYO6
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -25205,10 +25062,9 @@ presenting with isolated LVH.
 <p style="page-break-before: always;">
  
 </p>
-<h5>
-SLC25A4
-</h5>
- 
+
+##### SLC25A4
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
