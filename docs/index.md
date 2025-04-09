@@ -1,7 +1,4 @@
-Cardiac Gene2Phenotype Gene Panel
-================
-
-## Overview
+# Overview
 
 CardiacG2P is an evidence-based dataset for inherited cardiac condition
 gene disease pairs. Each entry annotates a disease-associated gene with
@@ -14,7 +11,7 @@ locus.
 This dataset is also available through G2P
 <https://www.ebi.ac.uk/gene2phenotype>
 
-## Citation
+# Citation
 
 *Josephs, K.S., Roberts, A.M., Theotokis, P. et al. Beyond gene-disease
 validity: capturing structured data on inheritance, allelic requirement,
@@ -22,7 +19,7 @@ disease-relevant variant classes, and disease mechanism for inherited
 cardiac conditions. Genome Med 15, 86 (2023).*
 <https://doi.org/10.1186/s13073-023-01246-8>
 
-## Inherited Arrhythmia Syndromes
+# Inherited Arrhythmia Syndromes
 
 ### Brugada Syndrome (BrS)
 
@@ -7054,7 +7051,7 @@ ClinGen gene-disease validity can be found here:
  
 </p>
 
-## Cardiomyopathy
+# Cardiomyopathy
 
 ### Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 
@@ -24894,7 +24891,7 @@ et al found that 3 previously reported recessive variants resulted in
  
 </p>
 
-## Other potentially relevant variant classes
+# Other potentially relevant variant classes
 
 Which variant classes should I filter for? The main table shows variant
 classes that have been reported to cause disease. We would expect other
