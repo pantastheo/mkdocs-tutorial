@@ -1,6 +1,16 @@
 Cardiac Gene2Phenotype Gene Panel
 ================
 
+<style type="text/css">
+  #TOC {
+    max-width: 100%;
+  }
+  &#10;  div:has(> #TOC) {
+    display: flex;
+    flex-direction: row-reverse;
+}
+</style>
+
 ## Overview
 
 CardiacG2P is an evidence-based dataset for inherited cardiac condition
