@@ -10,9 +10,9 @@ Gene2Phenotype Cardiac Gene Panel
     flex-direction: row-reverse;
 }
 </style>
-<h2>
-Overview
-</h2>
+
+## Overview
+
 
 CardiacG2P is an evidence-based dataset for inherited cardiac condition
 gene disease pairs. Each entry annotates a disease-associated gene with
@@ -25,9 +25,9 @@ locus.
 This dataset is also available through G2P
 <https://www.ebi.ac.uk/gene2phenotype>
 
-<h2>
-Citation
-</h2>
+
+## Citation
+
 
 *Josephs, K.S., Roberts, A.M., Theotokis, P. et al. Beyond gene-disease
 validity: capturing structured data on inheritance, allelic requirement,
@@ -35,15 +35,12 @@ disease-relevant variant classes, and disease mechanism for inherited
 cardiac conditions. Genome Med 15, 86 (2023).*
 <https://doi.org/10.1186/s13073-023-01246-8>
 
-<h2>
-Inherited Arrhythmia Syndromes
-</h2>
-<h3>
-Brugada Syndrome (BrS)
-</h3>
-<h5>
-SCN5A
-</h5>
+## Inherited Arrhythmia Syndromes
+
+### Brugada Syndrome (BrS)
+
+##### SCN5A
+
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>

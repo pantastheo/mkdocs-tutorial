@@ -1,9 +1,4 @@
 site_name: Cardiac Gene2Phenotype Gene Panel
 theme:
   name: readthedocs
-  features:
-    - search.suggest
-    - search.highlight
-plugins:
-  - search
   
