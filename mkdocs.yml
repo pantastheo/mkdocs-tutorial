@@ -1,6 +1,8 @@
 site_name: Cardiac Gene2Phenotype
 theme:
   name: readthedocs
+  features:
+    - navigation.top
 markdown_extensions:
   - toc:
       toc_depth: 6
@@ -13,4 +15,7 @@ plugins:
   - table-reader
   - pdf-export
   - awesome-nav
+nav:
+  - Home: single_document.md
+
   

@@ -1,5 +1,4 @@
-Cardiac Gene2Phenotype Gene Panel
-================
+# Cardiac Gene2Phenotype Gene Panel
 
 ## Overview
 
