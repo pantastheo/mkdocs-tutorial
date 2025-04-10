@@ -9206,1298 +9206,6 @@ variants however their pathogenicity is still debated (PMID: 25820315;
 
 ### Dilated Cardiomyopathy (DCM)
 
-#### Familial Dilated Cardiomyopathy
-
-##### ACTC1
-
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
-<thead>
-<tr>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-Gene symbol
-</th>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-ACTC1
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene mim
-</td>
-<td style="text-align:left;">
-102540
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Indication
-</td>
-<td style="text-align:left;">
-DCM
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Referral indication
-</td>
-<td style="text-align:left;">
-Dilated Cardiomyopathy (DCM)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease grouping
-</td>
-<td style="text-align:left;">
-Familial Dilated Cardiomyopathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
-Disease name
-</td>
-<td style="text-align:left;font-weight: bold;">
-ACTC1-related Dilated cardiomypathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene disease validity (ClinGen)
-</td>
-<td style="text-align:left;">
-moderate
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Allelic requirement
-</td>
-<td style="text-align:left;">
-monoallelic_autosomal
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance
-</td>
-<td style="text-align:left;">
-Autosomal dominant
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance modifiers
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease-associated variant consequence
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mechanism
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mutation consequence flag
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Restricted repertoire of pathogenic variants
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Variant classes reported with evidence of pathogenicity
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-PMIDs
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease accession
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Curated date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel review date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Organ specificity list
-</td>
-<td style="text-align:left;">
-Heart/Cardiovasculature/Lymphatic
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Panel
-</td>
-<td style="text-align:left;">
-Cardiac
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Prev symbols
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-HGNC ID
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-G2P gene disease pair entry date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-</tbody>
-</table>
-
-##### Narrative
-
-The gene disease validity assertion is ‘moderate’ from ClinGen. No
-inheritance or mechanism curations have been done in the absence of an
-established gene disease relationship.
-
-##### JPH2
-
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
-<thead>
-<tr>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-Gene symbol
-</th>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-JPH2
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene mim
-</td>
-<td style="text-align:left;">
-605267
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Indication
-</td>
-<td style="text-align:left;">
-DCM
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Referral indication
-</td>
-<td style="text-align:left;">
-Dilated Cardiomyopathy (DCM)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease grouping
-</td>
-<td style="text-align:left;">
-Familial Dilated Cardiomyopathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
-Disease name
-</td>
-<td style="text-align:left;font-weight: bold;">
-JPH2-related Dilated cardiomyopathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene disease validity (ClinGen)
-</td>
-<td style="text-align:left;">
-moderate
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Allelic requirement
-</td>
-<td style="text-align:left;">
-monoallelic_autosomal
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance
-</td>
-<td style="text-align:left;">
-Autosomal dominant
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance modifiers
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease-associated variant consequence
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mechanism
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mutation consequence flag
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Restricted repertoire of pathogenic variants
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Variant classes reported with evidence of pathogenicity
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-PMIDs
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease accession
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Curated date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel review date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Organ specificity list
-</td>
-<td style="text-align:left;">
-Heart/Cardiovasculature/Lymphatic
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Panel
-</td>
-<td style="text-align:left;">
-Cardiac
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Prev symbols
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-HGNC ID
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-G2P gene disease pair entry date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-</tbody>
-</table>
-
-##### Narrative
-
-The gene disease validity assertion is ‘moderate’ from ClinGen. No
-inheritance or mechanism curations have been done in the absence of an
-established gene disease relationship.
-
-##### NEXN
-
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
-<thead>
-<tr>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-Gene symbol
-</th>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-NEXN
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene mim
-</td>
-<td style="text-align:left;">
-613121
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Indication
-</td>
-<td style="text-align:left;">
-DCM
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Referral indication
-</td>
-<td style="text-align:left;">
-Dilated Cardiomyopathy (DCM)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease grouping
-</td>
-<td style="text-align:left;">
-Familial Dilated Cardiomyopathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
-Disease name
-</td>
-<td style="text-align:left;font-weight: bold;">
-NEXN-related Dilated cardiomyopathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene disease validity (ClinGen)
-</td>
-<td style="text-align:left;">
-moderate
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Allelic requirement
-</td>
-<td style="text-align:left;">
-monoallelic_autosomal
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance
-</td>
-<td style="text-align:left;">
-Autosomal dominant
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance modifiers
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease-associated variant consequence
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mechanism
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mutation consequence flag
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Restricted repertoire of pathogenic variants
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Variant classes reported with evidence of pathogenicity
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-PMIDs
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease accession
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Curated date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel review date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Organ specificity list
-</td>
-<td style="text-align:left;">
-Heart/Cardiovasculature/Lymphatic
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Panel
-</td>
-<td style="text-align:left;">
-Cardiac
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Prev symbols
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-HGNC ID
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-G2P gene disease pair entry date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-</tbody>
-</table>
-
-##### Narrative
-
-The gene disease validity assertion is ‘moderate’ from ClinGen. No
-inheritance or mechanism curations have been done in the absence of an
-established gene disease relationship.
-
-##### TNNI3
-
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
-<thead>
-<tr>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-Gene symbol
-</th>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-TNNI3
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene mim
-</td>
-<td style="text-align:left;">
-191044
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Indication
-</td>
-<td style="text-align:left;">
-DCM
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Referral indication
-</td>
-<td style="text-align:left;">
-Dilated Cardiomyopathy (DCM)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease grouping
-</td>
-<td style="text-align:left;">
-Familial Dilated Cardiomyopathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
-Disease name
-</td>
-<td style="text-align:left;font-weight: bold;">
-TNNI3-related Dilated cardiomyopathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene disease validity (ClinGen)
-</td>
-<td style="text-align:left;">
-moderate
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Allelic requirement
-</td>
-<td style="text-align:left;">
-monoallelic_autosomal
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance
-</td>
-<td style="text-align:left;">
-Autosomal dominant
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance modifiers
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease-associated variant consequence
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mechanism
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mutation consequence flag
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Restricted repertoire of pathogenic variants
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Variant classes reported with evidence of pathogenicity
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-PMIDs
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease accession
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Curated date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel review date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Organ specificity list
-</td>
-<td style="text-align:left;">
-Heart/Cardiovasculature/Lymphatic
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Panel
-</td>
-<td style="text-align:left;">
-Cardiac
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Prev symbols
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-HGNC ID
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-G2P gene disease pair entry date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-</tbody>
-</table>
-
-##### Narrative
-
-The gene disease validity assertion is ‘moderate’ from ClinGen. No
-inheritance or mechanism curations have been done in the absence of an
-established gene disease relationship.
-
-##### TPM1
-
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
-<thead>
-<tr>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-Gene symbol
-</th>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-TPM1
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene mim
-</td>
-<td style="text-align:left;">
-191010
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Indication
-</td>
-<td style="text-align:left;">
-DCM
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Referral indication
-</td>
-<td style="text-align:left;">
-Dilated Cardiomyopathy (DCM)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease grouping
-</td>
-<td style="text-align:left;">
-Familial Dilated Cardiomyopathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
-Disease name
-</td>
-<td style="text-align:left;font-weight: bold;">
-TPM1-related Dilated cardiomyopathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene disease validity (ClinGen)
-</td>
-<td style="text-align:left;">
-moderate
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Allelic requirement
-</td>
-<td style="text-align:left;">
-monoallelic_autosomal
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance
-</td>
-<td style="text-align:left;">
-Autosomal dominant
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance modifiers
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease-associated variant consequence
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mechanism
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mutation consequence flag
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Restricted repertoire of pathogenic variants
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Variant classes reported with evidence of pathogenicity
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-PMIDs
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease accession
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Curated date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel review date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Organ specificity list
-</td>
-<td style="text-align:left;">
-Heart/Cardiovasculature/Lymphatic
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Panel
-</td>
-<td style="text-align:left;">
-Cardiac
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Prev symbols
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-HGNC ID
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-G2P gene disease pair entry date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-</tbody>
-</table>
-
-##### Narrative
-
-The gene disease validity assertion is ‘moderate’ from ClinGen. No
-inheritance or mechanism curations have been done in the absence of an
-established gene disease relationship.
-
-##### VCL
-
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
-<thead>
-<tr>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-Gene symbol
-</th>
-<th style="text-align:left;font-weight: bold;font-size: 14px;">
-VCL
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene mim
-</td>
-<td style="text-align:left;">
-193065
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Indication
-</td>
-<td style="text-align:left;">
-DCM
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Referral indication
-</td>
-<td style="text-align:left;">
-Dilated Cardiomyopathy (DCM)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease grouping
-</td>
-<td style="text-align:left;">
-Familial Dilated Cardiomyopathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
-Disease name
-</td>
-<td style="text-align:left;font-weight: bold;">
-VCL-related Dilated cardiomyopathy
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Gene disease validity (ClinGen)
-</td>
-<td style="text-align:left;">
-moderate
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Allelic requirement
-</td>
-<td style="text-align:left;">
-monoallelic_autosomal
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance
-</td>
-<td style="text-align:left;">
-Autosomal dominant
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Inheritance modifiers
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease-associated variant consequence
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mechanism
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Mutation consequence flag
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Restricted repertoire of pathogenic variants
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Variant classes reported with evidence of pathogenicity
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-PMIDs
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Disease accession
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Curated date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel review date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Expert panel
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Organ specificity list
-</td>
-<td style="text-align:left;">
-Heart/Cardiovasculature/Lymphatic
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Panel
-</td>
-<td style="text-align:left;">
-Cardiac
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-Prev symbols
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-HGNC ID
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6cm; ">
-G2P gene disease pair entry date
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-</tbody>
-</table>
-
-##### Narrative
-
-The gene disease validity assertion is ‘moderate’ from ClinGen. No
-inheritance or mechanism curations have been done in the absence of an
-established gene disease relationship.
-
 #### Familial dilated cardiomyopathy
 
 ##### BAG3
@@ -13276,6 +11984,1296 @@ autosomal dominant trait and displays incomplete and age-related onset.
 TTN truncating variants are present in ~1% of the general population,
 although these variants are more likely to reside in isoforms with lower
 functional expression in cardiac tissue.
+
+##### ACTC1
+
+<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+Gene symbol
+</th>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+ACTC1
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene mim
+</td>
+<td style="text-align:left;">
+102540
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Indication
+</td>
+<td style="text-align:left;">
+DCM
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Referral indication
+</td>
+<td style="text-align:left;">
+Dilated Cardiomyopathy (DCM)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease grouping
+</td>
+<td style="text-align:left;">
+Familial dilated cardiomyopathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; font-weight: bold;">
+Disease name
+</td>
+<td style="text-align:left;font-weight: bold;">
+ACTC1-related Dilated cardiomypathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene disease validity (ClinGen)
+</td>
+<td style="text-align:left;">
+moderate
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Allelic requirement
+</td>
+<td style="text-align:left;">
+monoallelic_autosomal
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance
+</td>
+<td style="text-align:left;">
+Autosomal dominant
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance modifiers
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease-associated variant consequence
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mechanism
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mutation consequence flag
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Restricted repertoire of pathogenic variants
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Variant classes reported with evidence of pathogenicity
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+PMIDs
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease accession
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Curated date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel review date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Organ specificity list
+</td>
+<td style="text-align:left;">
+Heart/Cardiovasculature/Lymphatic
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Panel
+</td>
+<td style="text-align:left;">
+Cardiac
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Prev symbols
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+HGNC ID
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+G2P gene disease pair entry date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+</tbody>
+</table>
+
+##### Narrative
+
+The gene disease validity assertion is ‘moderate’ from ClinGen. No
+inheritance or mechanism curations have been done in the absence of an
+established gene disease relationship.
+
+##### JPH2
+
+<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+Gene symbol
+</th>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+JPH2
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene mim
+</td>
+<td style="text-align:left;">
+605267
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Indication
+</td>
+<td style="text-align:left;">
+DCM
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Referral indication
+</td>
+<td style="text-align:left;">
+Dilated Cardiomyopathy (DCM)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease grouping
+</td>
+<td style="text-align:left;">
+Familial dilated cardiomyopathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; font-weight: bold;">
+Disease name
+</td>
+<td style="text-align:left;font-weight: bold;">
+JPH2-related Dilated cardiomyopathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene disease validity (ClinGen)
+</td>
+<td style="text-align:left;">
+moderate
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Allelic requirement
+</td>
+<td style="text-align:left;">
+monoallelic_autosomal
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance
+</td>
+<td style="text-align:left;">
+Autosomal dominant
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance modifiers
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease-associated variant consequence
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mechanism
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mutation consequence flag
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Restricted repertoire of pathogenic variants
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Variant classes reported with evidence of pathogenicity
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+PMIDs
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease accession
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Curated date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel review date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Organ specificity list
+</td>
+<td style="text-align:left;">
+Heart/Cardiovasculature/Lymphatic
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Panel
+</td>
+<td style="text-align:left;">
+Cardiac
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Prev symbols
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+HGNC ID
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+G2P gene disease pair entry date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+</tbody>
+</table>
+
+##### Narrative
+
+The gene disease validity assertion is ‘moderate’ from ClinGen. No
+inheritance or mechanism curations have been done in the absence of an
+established gene disease relationship.
+
+##### NEXN
+
+<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+Gene symbol
+</th>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+NEXN
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene mim
+</td>
+<td style="text-align:left;">
+613121
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Indication
+</td>
+<td style="text-align:left;">
+DCM
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Referral indication
+</td>
+<td style="text-align:left;">
+Dilated Cardiomyopathy (DCM)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease grouping
+</td>
+<td style="text-align:left;">
+Familial dilated cardiomyopathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; font-weight: bold;">
+Disease name
+</td>
+<td style="text-align:left;font-weight: bold;">
+NEXN-related Dilated cardiomyopathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene disease validity (ClinGen)
+</td>
+<td style="text-align:left;">
+moderate
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Allelic requirement
+</td>
+<td style="text-align:left;">
+monoallelic_autosomal
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance
+</td>
+<td style="text-align:left;">
+Autosomal dominant
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance modifiers
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease-associated variant consequence
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mechanism
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mutation consequence flag
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Restricted repertoire of pathogenic variants
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Variant classes reported with evidence of pathogenicity
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+PMIDs
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease accession
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Curated date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel review date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Organ specificity list
+</td>
+<td style="text-align:left;">
+Heart/Cardiovasculature/Lymphatic
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Panel
+</td>
+<td style="text-align:left;">
+Cardiac
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Prev symbols
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+HGNC ID
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+G2P gene disease pair entry date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+</tbody>
+</table>
+
+##### Narrative
+
+The gene disease validity assertion is ‘moderate’ from ClinGen. No
+inheritance or mechanism curations have been done in the absence of an
+established gene disease relationship.
+
+##### TNNI3
+
+<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+Gene symbol
+</th>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+TNNI3
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene mim
+</td>
+<td style="text-align:left;">
+191044
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Indication
+</td>
+<td style="text-align:left;">
+DCM
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Referral indication
+</td>
+<td style="text-align:left;">
+Dilated Cardiomyopathy (DCM)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease grouping
+</td>
+<td style="text-align:left;">
+Familial dilated cardiomyopathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; font-weight: bold;">
+Disease name
+</td>
+<td style="text-align:left;font-weight: bold;">
+TNNI3-related Dilated cardiomyopathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene disease validity (ClinGen)
+</td>
+<td style="text-align:left;">
+moderate
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Allelic requirement
+</td>
+<td style="text-align:left;">
+monoallelic_autosomal
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance
+</td>
+<td style="text-align:left;">
+Autosomal dominant
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance modifiers
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease-associated variant consequence
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mechanism
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mutation consequence flag
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Restricted repertoire of pathogenic variants
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Variant classes reported with evidence of pathogenicity
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+PMIDs
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease accession
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Curated date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel review date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Organ specificity list
+</td>
+<td style="text-align:left;">
+Heart/Cardiovasculature/Lymphatic
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Panel
+</td>
+<td style="text-align:left;">
+Cardiac
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Prev symbols
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+HGNC ID
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+G2P gene disease pair entry date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+</tbody>
+</table>
+
+##### Narrative
+
+The gene disease validity assertion is ‘moderate’ from ClinGen. No
+inheritance or mechanism curations have been done in the absence of an
+established gene disease relationship.
+
+##### TPM1
+
+<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+Gene symbol
+</th>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+TPM1
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene mim
+</td>
+<td style="text-align:left;">
+191010
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Indication
+</td>
+<td style="text-align:left;">
+DCM
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Referral indication
+</td>
+<td style="text-align:left;">
+Dilated Cardiomyopathy (DCM)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease grouping
+</td>
+<td style="text-align:left;">
+Familial dilated cardiomyopathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; font-weight: bold;">
+Disease name
+</td>
+<td style="text-align:left;font-weight: bold;">
+TPM1-related Dilated cardiomyopathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene disease validity (ClinGen)
+</td>
+<td style="text-align:left;">
+moderate
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Allelic requirement
+</td>
+<td style="text-align:left;">
+monoallelic_autosomal
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance
+</td>
+<td style="text-align:left;">
+Autosomal dominant
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance modifiers
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease-associated variant consequence
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mechanism
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mutation consequence flag
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Restricted repertoire of pathogenic variants
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Variant classes reported with evidence of pathogenicity
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+PMIDs
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease accession
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Curated date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel review date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Organ specificity list
+</td>
+<td style="text-align:left;">
+Heart/Cardiovasculature/Lymphatic
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Panel
+</td>
+<td style="text-align:left;">
+Cardiac
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Prev symbols
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+HGNC ID
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+G2P gene disease pair entry date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+</tbody>
+</table>
+
+##### Narrative
+
+The gene disease validity assertion is ‘moderate’ from ClinGen. No
+inheritance or mechanism curations have been done in the absence of an
+established gene disease relationship.
+
+##### VCL
+
+<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+Gene symbol
+</th>
+<th style="text-align:left;font-weight: bold;font-size: 14px;">
+VCL
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene mim
+</td>
+<td style="text-align:left;">
+193065
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Indication
+</td>
+<td style="text-align:left;">
+DCM
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Referral indication
+</td>
+<td style="text-align:left;">
+Dilated Cardiomyopathy (DCM)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease grouping
+</td>
+<td style="text-align:left;">
+Familial dilated cardiomyopathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; font-weight: bold;">
+Disease name
+</td>
+<td style="text-align:left;font-weight: bold;">
+VCL-related Dilated cardiomyopathy
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Gene disease validity (ClinGen)
+</td>
+<td style="text-align:left;">
+moderate
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Allelic requirement
+</td>
+<td style="text-align:left;">
+monoallelic_autosomal
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance
+</td>
+<td style="text-align:left;">
+Autosomal dominant
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Inheritance modifiers
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease-associated variant consequence
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mechanism
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Mutation consequence flag
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Restricted repertoire of pathogenic variants
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Variant classes reported with evidence of pathogenicity
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+PMIDs
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Disease accession
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Curated date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel review date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Expert panel
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Organ specificity list
+</td>
+<td style="text-align:left;">
+Heart/Cardiovasculature/Lymphatic
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Panel
+</td>
+<td style="text-align:left;">
+Cardiac
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+Prev symbols
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+HGNC ID
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6cm; ">
+G2P gene disease pair entry date
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+</tbody>
+</table>
+
+##### Narrative
+
+The gene disease validity assertion is ‘moderate’ from ClinGen. No
+inheritance or mechanism curations have been done in the absence of an
+established gene disease relationship.
 
 ### Hypertrophic Cardiomyopathy (HCM)
 
