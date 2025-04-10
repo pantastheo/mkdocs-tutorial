@@ -26,6 +26,8 @@ cardiac conditions. Genome Med 15, 86 (2023).*
 
 ### Brugada Syndrome (BrS)
 
+### Brugada Syndrome
+
 ##### SCN5A
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
@@ -280,6 +282,8 @@ gain of late current and can lead to a mixed phenotype of LQTS and BrS
 (PMID: 29806494).
 
 ### Catecholaminergic polymorphic ventricular tachycardia (CPVT)
+
+#### Atypical CPVT phenotype
 
 ##### CALM1
 
@@ -1542,6 +1546,8 @@ Biallelic loss of function variants in TRDN have also been associated
 with LQTS with an atypical presentation (ClinGen: strong evidence).
 This, ‘triadin knockout syndrome’ can lead to variable phenotypes.
 
+#### Classic CPVT phenotype
+
 ##### CASQ2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
@@ -2253,6 +2259,8 @@ PMID: 23479668; Onho et al, 2014, PMID: 24394973; Campbell et al, 2015,
 PMID: 26018045; Mazzarotto et al, 2021, PMID: 33500567).
 
 ### Long QT Syndrome (LQTS)
+
+#### Familial Long QT Syndrome
 
 ##### KCNH2
 
@@ -3444,6 +3452,8 @@ The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
+#### Long QT syndrome with an atypical presentation
+
 ##### CALM1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
@@ -4446,6 +4456,8 @@ undergoes extensive alternative splicing to produce several isoforms.
 Only biallelic LoF variants affecting cardiac isoforms should be
 considered as pathogenic for LQTS.
 
+#### Syndromic QT prolongation and cardiac arrhythmias
+
 ##### CACNA1C
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
@@ -5390,6 +5402,8 @@ JLNS.<br/> Note: heterozygous variants in KCNQ1 lead to dominant LQTS.
 
 ### Short QT Syndrome (SQTS)
 
+#### Classic SQTS
+
 ##### KCNH2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
@@ -6310,6 +6324,8 @@ relationship led to a score in the ‘Moderate’ range (for gene-disease
 validity). Further information on ClinGen gene-disease validity can be
 found here: <https://search.clinicalgenome.org/kb/genes/HGNC:11029>
 
+#### Syndrome including shortened QT and cardiac arrhythmias
+
 ##### SLC22A5
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
@@ -6544,6 +6560,8 @@ ClinGen gene-disease validity can be found here:
 ## Cardiomyopathy
 
 ### Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+
+#### Familial isolated arrhythmogenic cardiomyopathy
 
 ##### DSC2
 
@@ -8930,6 +8948,8 @@ The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
+#### Rare familial disorder with ARVC
+
 ##### JUP
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
@@ -9185,6 +9205,8 @@ variants however their pathogenicity is still debated (PMID: 25820315;
 20031617; 31402444).
 
 ### Dilated Cardiomyopathy (DCM)
+
+#### Familial Dilated Cardiomyopathy
 
 ##### ACTC1
 
@@ -10475,6 +10497,8 @@ NA
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
+
+#### Familial dilated cardiomyopathy
 
 ##### BAG3
 
@@ -13254,6 +13278,8 @@ although these variants are more likely to reside in isoforms with lower
 functional expression in cardiac tissue.
 
 ### Hypertrophic Cardiomyopathy (HCM)
+
+#### Familial hypertrophic cardiomyopathy
 
 ##### ACTC1
 
@@ -17764,6 +17790,8 @@ The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
+#### Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
+
 ##### ALPK3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
@@ -21108,6 +21136,8 @@ transthyretin cardiac amyloidosis supported the use of tafamidis (a
 tetramer stabiliser) and noted that other novel therapeutic targets
 including transthyretin gene silencers are currently under investigation
 (PMID: 32969287).
+
+#### Syndrome with hypertrophic cardiomyopathy - no isolated LVH
 
 ##### ABCC9
 
