@@ -1,6 +1,5 @@
-# Cardiac Gene2Phenotype Gene Panel
 
-## Overview
+# Overview
 
 CardiacG2P is an evidence-based dataset for inherited cardiac condition
 gene disease pairs. Each entry annotates a disease-associated gene with
@@ -13,7 +12,7 @@ locus.
 This dataset is also available through G2P
 <https://www.ebi.ac.uk/gene2phenotype>
 
-## Citation
+# Citation
 
 *Josephs, K.S., Roberts, A.M., Theotokis, P. et al. Beyond gene-disease
 validity: capturing structured data on inheritance, allelic requirement,
@@ -21,13 +20,13 @@ disease-relevant variant classes, and disease mechanism for inherited
 cardiac conditions. Genome Med 15, 86 (2023).*
 <https://doi.org/10.1186/s13073-023-01246-8>
 
-## Inherited Arrhythmia Syndromes
+# Inherited Arrhythmia Syndromes
 
-### Brugada Syndrome (BrS)
+## Brugada Syndrome (BrS)
 
 ### Brugada Syndrome
 
-##### SCN5A
+#### SCN5A
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -241,7 +240,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 SCN5A-related Brugada syndrome is caused by **decreased gene product
 level or altered gene product sequence** due to a variety of mechanisms
@@ -280,11 +279,11 @@ Uncommonly, a single variant can cause both loss of peak current and
 gain of late current and can lead to a mixed phenotype of LQTS and BrS
 (PMID: 29806494).
 
-### Catecholaminergic polymorphic ventricular tachycardia (CPVT)
+## Catecholaminergic polymorphic ventricular tachycardia (CPVT)
 
-#### Atypical CPVT phenotype
+### Atypical CPVT phenotype
 
-##### CALM1
+#### CALM1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -493,7 +492,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The disease mechanism in CALM1-related CPVT is likely a dominant
 negative effect caused by **altered gene product sequence** which
@@ -553,7 +552,7 @@ equivalent de novo variants in the three genes have been shown to lead
 to similar phenotypes, highlighting the functional equivalence of these
 genes.
 
-##### CALM2
+#### CALM2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -762,7 +761,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The disease mechanism in CALM2-related CPVT is likely a dominant
 negative effect caused by **altered gene product sequence** which
@@ -823,7 +822,7 @@ proteins, are all expressed in the heart and equivalent de novo variants
 in the three genes have been shown to lead to similar phenotypes,
 highlighting the functional equivalence of these genes.
 
-##### CALM3
+#### CALM3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -1032,7 +1031,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The disease mechanism in CALM3-related CPVT is likely a dominant
 negative effect caused by **altered gene product sequence** which
@@ -1093,7 +1092,7 @@ proteins, are all expressed in the heart and equivalent de novo variants
 in the three genes have been shown to lead to similar phenotypes,
 highlighting the functional equivalence of these genes.
 
-##### TECRL
+#### TECRL
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -1303,7 +1302,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 **Absent gene product level and altered gene product sequence** of TECRL
 is associated with CPVT. The disease mechanism appears to be loss of
@@ -1321,7 +1320,7 @@ mild prolonged QT interval was observed in several cases, especially
 after stimulation by epinephrine or exercise, although overall the
 phenotypes are much more typical of CPVT than LQTS.
 
-##### TRDN
+#### TRDN
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -1531,7 +1530,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 **Absent gene product level and altered gene product sequence** of TRDN
 is associated with CPVT. The disease mechanism appears to be loss of
@@ -1545,9 +1544,9 @@ Biallelic loss of function variants in TRDN have also been associated
 with LQTS with an atypical presentation (ClinGen: strong evidence).
 This, ‘triadin knockout syndrome’ can lead to variable phenotypes.
 
-#### Classic CPVT phenotype
+### Classic CPVT phenotype
 
-##### CASQ2
+#### CASQ2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -1758,7 +1757,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 CASQ2 is an established gene for autosomal recessive CPVT (the second
 most common genetic cause of the disease, responsible for up to 5% of
@@ -1793,7 +1792,7 @@ variant segregating with disease in a family (the published LOD score
 was 3.0 although there were only five meioses between genotype and
 phenotype positive individuals) (Gray et al, 2016, PMID: 27157848).
 
-##### CASQ2
+#### CASQ2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -2004,7 +2003,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 CASQ2 is an established gene for autosomal recessive CPVT (the second
 most common genetic cause of the disease, responsible for up to 5% of
@@ -2018,7 +2017,7 @@ frameshift, nonsense and splice donor/acceptor variants, as well as
 other splice region variants with verified effects on splicing, and
 missense variants with verified loss-of-function effects.
 
-##### RYR2
+#### RYR2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -2228,7 +2227,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 RYR2 is associated with CPVT with autosomal dominant inheritance. The
 allelic requirement for pathogenicity is monoallelic autosomal, and the
@@ -2257,11 +2256,11 @@ ventricular non-compaction phenotype (Bhuiyan et al, 2007, PMID:
 PMID: 23479668; Onho et al, 2014, PMID: 24394973; Campbell et al, 2015,
 PMID: 26018045; Mazzarotto et al, 2021, PMID: 33500567).
 
-### Long QT Syndrome (LQTS)
+## Long QT Syndrome (LQTS)
 
-#### Familial Long QT Syndrome
+### Familial Long QT Syndrome
 
-##### KCNH2
+#### KCNH2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -2476,7 +2475,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 KCNH2-related LQTS is due to **decreased gene product level or altered
 gene product sequence**. The disease mechanism is **loss of function**
@@ -2503,7 +2502,7 @@ Biallelic pathogenic variants or digenic pathogenic variants appear to
 be generally associated with a more severe phenotype with longer QTc
 interval and a higher incidence of cardiac events.
 
-##### KCNQ1
+#### KCNQ1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -2716,7 +2715,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in KCNQ1 cause LQTS due to **decreased gene product
 level or altered gene product sequence**. This leads to loss of function
@@ -2751,7 +2750,7 @@ gene regions where there is a high confidence for pathogenicity
 e.g. transmembrane regions and C-terminus domains (PMID: 32893267;
 19841300).
 
-##### KCNQ1
+#### KCNQ1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -2964,7 +2963,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in KCNQ1 cause LQTS due to **decreased gene product
 level or altered gene product sequence**. This leads to loss of function
@@ -2999,7 +2998,7 @@ gene regions where there is a high confidence for pathogenicity
 e.g. transmembrane regions and C-terminus domains (PMID: 32893267;
 19841300).
 
-##### SCN5A
+#### SCN5A
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -3210,7 +3209,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 **Altered gene product sequence** of SCN5A causes long QT syndrome. The
 likely disease mechanism is gain of function.<br/> Over 200 pathogenic
@@ -3236,7 +3235,7 @@ of function variants in SCN5A are associated with Brugada syndrome and
 individual variants can have hybrid loss of function and gain of
 function effects causing a mixed phenotype.
 
-##### CACNA1C
+#### CACNA1C
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -3445,15 +3444,15 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-#### Long QT syndrome with an atypical presentation
+### Long QT syndrome with an atypical presentation
 
-##### CALM1
+#### CALM1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -3662,7 +3661,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 CALM1-related LQTS is caused by an **altered gene product sequence**.
 Reduction in the calcium dependent inactivation of the calcium channel
@@ -3709,7 +3708,7 @@ nine CALM-CPVTs (11%). Conversely, variants identified in CALM-CPVT
 index cases were mostly located either in EF-hand III (n = 5, 56%), or
 in the inter-EF hand I-II linker (n = 3, 33%).’
 
-##### CALM2
+#### CALM2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -3918,7 +3917,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 CALM2-related LQTS is caused by an**altered gene product sequence**
 which reduces the calcium dependent inactivation of the calcium channel
@@ -3965,7 +3964,7 @@ nine CALM-CPVTs (11%). Conversely, variants identified in CALM-CPVT
 index cases were mostly located either in EF-hand III (n = 5, 56%), or
 in the inter-EF hand I-II linker (n = 3, 33%).’
 
-##### CALM3
+#### CALM3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -4174,7 +4173,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 For LQTS, CALM3 variants lead to an **altered gene product sequence**.
 The disease mechanism is likely a dominant negative effect which reduces
@@ -4221,7 +4220,7 @@ nine CALM-CPVTs (11%). Conversely, variants identified in CALM-CPVT
 index cases were mostly located either in EF-hand III (n = 5, 56%), or
 in the inter-EF hand I-II linker (n = 3, 33%).’
 
-##### TRDN
+#### TRDN
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -4431,7 +4430,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 TRDN-related LQTS is due to an **absent gene product level**. The
 disease mechanism is loss of function (LoF).<br/> **TRDN is rarely
@@ -4455,9 +4454,9 @@ undergoes extensive alternative splicing to produce several isoforms.
 Only biallelic LoF variants affecting cardiac isoforms should be
 considered as pathogenic for LQTS.
 
-#### Syndromic QT prolongation and cardiac arrhythmias
+### Syndromic QT prolongation and cardiac arrhythmias
 
-##### CACNA1C
+#### CACNA1C
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -4668,7 +4667,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 CACNA1C-related Timothy syndrome is caused by variants leading to
 **altered gene product sequence**. A recurrent, de novo, missense
@@ -4692,7 +4691,7 @@ been reported in association with isolated LQTS (PMID: 26253506;
 Domain Working Group have classified the strength of evidence supporting
 an association between CACNA1C and LQTS as moderate (PMID: 31983240).
 
-##### KCNE1
+#### KCNE1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -4903,7 +4902,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 KCNE1-related JLNS is due to **altered gene product sequence**.
 Inheritance is autosomal recessive. Homozygous or compound heterozygous
@@ -4932,7 +4931,7 @@ was a large amount of experimental evidence and no contradictory
 evidence, more case level evidence was required to reach a Definitive
 classification.
 
-##### KCNJ2
+#### KCNJ2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -5143,7 +5142,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 KCNJ2 pathogenic variants cause Andersen Tawil syndrome (ATS) through
 **altered gene product sequence**. Most of the pathogenic variants cause
@@ -5166,7 +5165,7 @@ pathogenic variant is considered a potential mutational hot spot (Davies
 et al 2005 PMID: 16217063).<br/>Penetrance in families appears high,
 with estimates of greater or equal to 80%.
 
-##### KCNQ1
+#### KCNQ1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -5379,7 +5378,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Biallelic pathogenic variants in KCNQ1 cause JLNS due to **absent gene
 product level or altered gene product sequence**.<br/> Both homozygous
@@ -5399,11 +5398,11 @@ mutations that lead to a protein product that does not traffic to the
 cell membrane (or is subject to nonsense mediated decay) will lead to
 JLNS.<br/> Note: heterozygous variants in KCNQ1 lead to dominant LQTS.
 
-### Short QT Syndrome (SQTS)
+## Short QT Syndrome (SQTS)
 
-#### Classic SQTS
+### Classic SQTS
 
-##### KCNH2
+#### KCNH2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -5615,7 +5614,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 SQTS is a rare (\< 1/10,000) AD inherited arrhythmia syndrome associated
 with atrial fibrillation, ventricular arrhythmia, and risk of sudden
@@ -5636,7 +5635,7 @@ SQTS phenotype and shortening of the QT interval.<br/><br/> Note
 loss-of-function variants in KCNH2 are associated with Long QT Syndrome
 (LQTS).
 
-##### KCNJ2
+#### KCNJ2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -5846,7 +5845,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Genetic variants in KCNJ2 have been identified in 6 patients from 5
 families with unique variants, including at least 2 probands with a
@@ -5861,7 +5860,7 @@ sufficient for a stronger classification. Further information on ClinGen
 gene-disease validity can be found here:
 <https://search.clinicalgenome.org/kb/genes/HGNC:6263>
 
-##### KCNQ1
+#### KCNQ1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -6072,7 +6071,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Almost all evidence for KCNQ1 as a cause of SQTS is derived from a
 single variant (p.Val141Met) identified in 9 unrelated probands. All 9
@@ -6094,7 +6093,7 @@ Importantly, in none of the p.Val141Met cases was cardiac arrest or
 sudden cardiac death described. <br/>Note: loss-of-function variants in
 KCNQ1 are associated with Long QT Syndrome (LQTS).
 
-##### SLC4A3
+#### SLC4A3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -6303,7 +6302,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 SLC4A3 encodes a plasma membrane anion exchange protein. Genetic
 evidence supporting SLC4A3 as a SQTS-causing gene is derived from a
@@ -6323,9 +6322,9 @@ relationship led to a score in the ‘Moderate’ range (for gene-disease
 validity). Further information on ClinGen gene-disease validity can be
 found here: <https://search.clinicalgenome.org/kb/genes/HGNC:11029>
 
-#### Syndrome including shortened QT and cardiac arrhythmias
+### Syndrome including shortened QT and cardiac arrhythmias
 
-##### SLC22A5
+#### SLC22A5
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -6534,7 +6533,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Variants in SLC22A5 cause autosomal recessive primary systemic carnitine
 deficiency (PSCD), a syndrome characterized by hypoketotic hypoglycemia,
@@ -6556,13 +6555,13 @@ individuals being investigated for possible SQTS. Further information on
 ClinGen gene-disease validity can be found here:
 <https://search.clinicalgenome.org/kb/genes/HGNC:10969>
 
-## Cardiomyopathy
+# Cardiomyopathy
 
-### Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+## Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 
-#### Familial isolated arrhythmogenic cardiomyopathy
+### Familial isolated arrhythmogenic cardiomyopathy
 
-##### DSC2
+#### DSC2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -6775,7 +6774,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 DSC2-related ARVC is due to **decreased gene product level or altered
 gene product sequence** due to a variety of mechanisms (e.g. null
@@ -6800,7 +6799,7 @@ DSC2-related ARVC appears to be characterised by an increased risk of
 biventricular involvement and heart failure when compared to
 PKP2-related ARVC (PMID: 34400560).
 
-##### DSC2
+#### DSC2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -7013,7 +7012,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 DSC2-related ARVC is due to **decreased gene product level or altered
 gene product sequence** due to a variety of mechanisms (e.g. null
@@ -7038,7 +7037,7 @@ DSC2-related ARVC appears to be characterised by an increased risk of
 biventricular involvement and heart failure when compared to
 PKP2-related ARVC (PMID: 34400560).
 
-##### DSG2
+#### DSG2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -7249,7 +7248,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 DSG2-related ARVC is due to **decreased gene product level or altered
 gene product sequence** due to a variety of mechanisms. Much of the
@@ -7274,7 +7273,7 @@ to be characterised by an increased risk of biventricular involvement
 and heart failure when compared to PKP2-related ARVC (PMID: 34400560;
 30790397).
 
-##### DSG2
+#### DSG2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -7485,7 +7484,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 DSG2-related ARVC is due to **decreased gene product level or altered
 gene product sequence** due to a variety of mechanisms. Much of the
@@ -7510,7 +7509,7 @@ to be characterised by an increased risk of biventricular involvement
 and heart failure when compared to PKP2-related ARVC (PMID: 34400560;
 30790397).
 
-##### DSP
+#### DSP
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -7722,7 +7721,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 DSP-related ARVC is due to **decreased gene product level or altered
 gene product sequence**.<br/> The disease mechanism is loss of function
@@ -7773,7 +7772,7 @@ inflammation, fibrosis, and systolic dysfunction, and DSP cardiomyopathy
 should be considered in the differential diagnosis for myocarditis and
 sarcoidosis (PMID: 32372669).
 
-##### DSP
+#### DSP
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -7985,7 +7984,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 DSP-related ARVC is due to **decreased gene product level or altered
 gene product sequence**.<br/> The disease mechanism is loss of function
@@ -8036,7 +8035,7 @@ inflammation, fibrosis, and systolic dysfunction, and DSP cardiomyopathy
 should be considered in the differential diagnosis for myocarditis and
 sarcoidosis (PMID: 32372669).
 
-##### PKP2
+#### PKP2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -8247,7 +8246,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 PKP2 pathogenic variants cause ARVC through **decreased gene product
 level or altered gene product sequence**. PKP2 encodes plakophilin-2
@@ -8279,7 +8278,7 @@ studies (PMID 22781308), their mechanism and overall impact in ARVC is
 not completely understood. The majority of missense variants in ClinVar
 are classified as variants of uncertain significance.
 
-##### TMEM43
+#### TMEM43
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -8489,7 +8488,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 TMEM43-related ARVC is due to **altered gene product sequence.**<br/>
 Pathogenic variants in TMEM43 are a rare cause of ARVC (PMID:
@@ -8517,7 +8516,7 @@ can occur early in the natural history (PMID: 22725725).<br/> PMID
 variants in Emery Dreifuss Muscular Dystrophy Related Myopathy. Other
 missense variants have been reported but their pathogenicity is debated.
 
-##### DES
+#### DES
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -8726,13 +8725,13 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-##### PLN
+#### PLN
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -8941,15 +8940,15 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-#### Rare familial disorder with ARVC
+### Rare familial disorder with ARVC
 
-##### JUP
+#### JUP
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -9160,7 +9159,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 JUP-related Naxos disease (ARVC, woolly hair and palmoplantar
 keratoderma) is due to **altered gene product sequence** causing loss of
@@ -9203,11 +9202,11 @@ JUP in a German family with ARVC and no obvious cutaneous abnormalities
 variants however their pathogenicity is still debated (PMID: 25820315;
 20031617; 31402444).
 
-### Dilated Cardiomyopathy (DCM)
+## Dilated Cardiomyopathy (DCM)
 
-#### Familial dilated cardiomyopathy
+### Familial dilated cardiomyopathy
 
-##### BAG3
+#### BAG3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -9419,7 +9418,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in BAG3 cause an estimated 2-4% of familial DCM due
 to **decreased gene product level or altered gene product sequence**.
@@ -9438,7 +9437,7 @@ missense variants in similar domains can lead to different phenotypes
 leading to DCM).<br/> BAG3-related DCM is inherited as an autosomal
 dominant trait, characterised by incomplete penetrance.
 
-##### DES
+#### DES
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -9647,7 +9646,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in DES cause DCM due to **altered gene product
 sequence**.<br/> **Only missense variants in DES have been confidently
@@ -9663,7 +9662,7 @@ disease is generally highly penetrant. DES missense variants account for
 a very small proportion (estimated 2%) of genetically-explained DCM
 (PMID: 17325244).
 
-##### DSP
+#### DSP
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -9875,7 +9874,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in DSP cause DCM due to **decreased gene product
 level or altered gene product sequence** due to a variety of mechanisms.
@@ -9892,7 +9891,7 @@ with cutaneous features, ARVC, and Carvajal syndrome). There does not
 appear to be distinct mechanisms leading to different phenotypes
 <https://search.clinicalgenome.org/kb/gene-dosage/HGNC:3052>.
 
-##### FLNC
+#### FLNC
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -10104,7 +10103,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in FLNC account for approximately 2-4% of familial
 DCM due to **decreased gene product level**. The mechanism is likely
@@ -10125,7 +10124,7 @@ as an autosomal dominant trait, penetrance in close relatives of an
 affected proband is generally high, although not complete, with mean age
 of onset in the late 4th or early 5th decade, +/- 10-15 years.
 
-##### LMNA
+#### LMNA
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -10337,7 +10336,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in LMNA cause DCM due to **decreased gene product
 level or altered gene product sequence**, likely due to a variety of
@@ -10361,7 +10360,7 @@ to specific regions of the gene. However, DCM causing variants have been
 recorded across the gene and are so far all reported with dominant
 inheritance.
 
-##### MYH7
+#### MYH7
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -10570,7 +10569,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 MYH7 encodes the beta-myosin heavy chain, part of the sarcomere which
 plays a major role in cardiac muscle contraction.<br/> Pathogenic
@@ -10590,7 +10589,7 @@ MYH7 variants are likely to account for approximately 5-6% of familial
 DCM cases. There is evidence that biallelic variants can have an
 additive effect resulting in more severe cardiomyopathic phenotypes.
 
-##### PLN
+#### PLN
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -10800,7 +10799,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in PLN cause cardiomyopathy by **decreased gene
 product level or altered gene product sequence**.<br/> Inheritance is
@@ -10831,7 +10830,7 @@ cardiomyopathy and the majority of variants reported appear to be
 associated with DCM. Experts commented that further investigation into
 PLN and HCM and the variant classes associated needs to be undertaken.
 
-##### RBM20
+#### RBM20
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -11042,7 +11041,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in RBM20 cause DCM due to **decreased gene product
 level or altered gene product sequence** due to a variety of mechanisms
@@ -11061,7 +11060,7 @@ sudden cardiac death. Pathogenic RBM20 variants are likely to account
 for approximately 1.5-3% of familial DCM cases. There is a pathogenic
 variant hotspot in exon 9 (RS motif, amino acids 634-638).
 
-##### SCN5A
+#### SCN5A
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -11271,7 +11270,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in SCN5A cause DCM mainly due to **altered gene
 product sequence leading to gain of function, and more rarely
@@ -11291,7 +11290,7 @@ generally more associated with Brugada syndrome (BrS); SCN5A is the only
 gene definitively associated with BrS. Gain of function variants are
 also associated with Long QT syndrome.
 
-##### TNNC1
+#### TNNC1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -11501,7 +11500,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in TNNC1 are a rare (\<1%) cause of familial DCM due
 to **altered gene product sequence**. This leads to a likely ‘poison
@@ -11519,7 +11518,7 @@ although there are some reports of early onset DCM and other
 cardiomyopathy associated with compound heterozygosity for TNNC1
 variants (PMID: 27604170).
 
-##### TNNT2
+#### TNNT2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -11728,7 +11727,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in TNNT2 cause DCM due to **altered gene product
 sequence**.<br/> Only missense variants have confidently been reported
@@ -11743,7 +11742,7 @@ associated with an early-onset and more severe form of DCM.<br/> Of note
 pathogenic variants in TNNT2 are also associated hypertrophic and
 restrictive cardiomyopathies.
 
-##### TTN
+#### TTN
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -11960,7 +11959,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in TTN cause an estimated 15-20% of familial DCM due
 to **decreased gene product level and altered gene product sequence**.
@@ -11984,7 +11983,7 @@ TTN truncating variants are present in ~1% of the general population,
 although these variants are more likely to reside in isoforms with lower
 functional expression in cardiac tissue.
 
-##### ACTC1
+#### ACTC1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -12193,13 +12192,13 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-##### JPH2
+#### JPH2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -12408,13 +12407,13 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-##### NEXN
+#### NEXN
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -12623,13 +12622,13 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-##### TNNI3
+#### TNNI3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -12838,13 +12837,13 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-##### TPM1
+#### TPM1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -13053,13 +13052,13 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-##### VCL
+#### VCL
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -13268,17 +13267,17 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-### Hypertrophic Cardiomyopathy (HCM)
+## Hypertrophic Cardiomyopathy (HCM)
 
-#### Familial hypertrophic cardiomyopathy
+### Familial hypertrophic cardiomyopathy
 
-##### ACTC1
+#### ACTC1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -13488,7 +13487,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 ACTC1 pathogenic variants cause HCM through **altered gene product
 sequence**. The disease mechanism is not definitively known but may
@@ -13507,7 +13506,7 @@ Liu et al suggest it may act to change the local structure and
 arrangement of amino acids in the actomyosin binding site (PMID:
 28972856).<br/> Large deletions or duplications have not been described.
 
-##### ACTN2
+#### ACTN2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -13719,7 +13718,7 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in ACTN2 are definitively associated with cardiac
 and skeletal myopathy. They can cause disease through **decreased gene
@@ -13779,7 +13778,7 @@ caution in cardiomyopathy patients (PMID: 27532257, PMID:
 Cardiovascular Disease Gene Curation Expert Panel. Review date:
 17/03/2025
 
-##### ALPK3
+#### ALPK3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -13989,7 +13988,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in ALPK3 are strongly associated with hypertrophic
 cardiomyopathy (HCM) (PMID 39971408). They cause disease through
@@ -14026,7 +14025,7 @@ unaffected but a minority, 10-15%, had adult onset HCM (PMID 34526680).
 Expert review panel: ClinGen Hereditary Cardiovascular Disease Gene
 Curation Expert Panel. Review date: 17/03/2025
 
-##### CSRP3
+#### CSRP3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -14239,7 +14238,7 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in CSRP3 are definitively associated with
 hypertrophic cardiomyopathy (HCM) (PMID 39971408). They can cause
@@ -14266,7 +14265,7 @@ PMID: 33035702. <br/><br/> Expert review panel: ClinGen Hereditary
 Cardiovascular Disease Gene Curation Expert Panel. Review date:
 17/03/2025
 
-##### CSRP3
+#### CSRP3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -14479,7 +14478,7 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in CSRP3 are definitively associated with
 hypertrophic cardiomyopathy (HCM) (PMID 39971408). They can cause
@@ -14506,7 +14505,7 @@ PMID: 33035702. <br/><br/> Expert review panel: ClinGen Hereditary
 Cardiovascular Disease Gene Curation Expert Panel. Review date:
 17/03/2025
 
-##### FHOD3
+#### FHOD3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -14717,7 +14716,7 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in FHOD3 are definitively associated with
 hypertrophic cardiomyopathy (HCM) (PMID 39971408). They can cause
@@ -14748,7 +14747,7 @@ deletion c.1836-2543 in intron 14 to c.2021+2217 in intron 16 (PMID:
 <br/><br/> Expert review panel: ClinGen Hereditary Cardiovascular
 Disease Gene Curation Expert Panel. Review date: 17/03/2025
 
-##### MYBPC3
+#### MYBPC3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -14963,7 +14962,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 MYBPC3 pathogenic variants cause HCM through **decreased gene product
 level or altered gene product sequence** either leading to a reduction
@@ -14994,7 +14993,7 @@ cardiomyopathy as a risk allele (PMID: 19151713).<br/> Although there is
 significant genetic and allelic heterogeneity in HCM, there are also
 several MYBPC3 founder variants (PMID: 28912181; 27532257).
 
-##### MYH7
+#### MYH7
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -15205,7 +15204,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 MYH7 pathogenic variants cause HCM through **altered gene product
 sequence** leading to an increase in sarcomere force generation.
@@ -15235,7 +15234,7 @@ residues 181-937). (PMID: 27247418; 27532257; 29300372; 30696458). <br/>
 Kelly et al 2018 (PMID: 29300372) provide gene-specific adaptations of
 ACMG criteria for MYH7 and HCM.
 
-##### MYL2
+#### MYL2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -15445,7 +15444,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 MYL2 pathogenic variants cause autosomal HCM through **altered gene
 product sequence**. The disease mechanism is not definitively known but
@@ -15472,7 +15471,7 @@ encompassing exon 7 expected to result in a truncated protein -
 al found the MYL2 gene to be significantly enriched for non-truncating
 variants, odds ratio 9.1 (6.2-13.3) (PMID: 30696458).
 
-##### MYL3
+#### MYL3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -15682,7 +15681,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 MYL3 pathogenic variants cause HCM through **altered gene product
 sequence**. The disease mechanism is not definitively known but may
@@ -15709,7 +15708,7 @@ currently insufficient evidence to support loss of function as a
 mechanism.<br/> Walsh et al reported a cluster of non-truncating MYL3
 variants in HCM at amino acid residues 143-180 (PMID: 30696458).
 
-##### PLN
+#### PLN
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -15919,7 +15918,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in PLN cause cardiomyopathy by **decreased gene
 product level or altered gene product sequence**.<br/> Inheritance is
@@ -15950,7 +15949,7 @@ cardiomyopathy and the majority of variants reported appear to be
 associated with DCM. Experts commented that further investigation into
 PLN and HCM and the variant classes associated needs to be undertaken.
 
-##### TNNC1
+#### TNNC1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -16160,7 +16159,7 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in TNNC1 are definitively associated with
 hypertrophic cardiomyopathy (HCM) (PMID 39971408). They can cause
@@ -16180,7 +16179,7 @@ relationships have not been curated by ClinGen. <br/><br/> Expert review
 panel: ClinGen Hereditary Cardiovascular Disease Gene Curation Expert
 Panel. Review date: 17/03/2025
 
-##### TNNI3
+#### TNNI3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -16390,7 +16389,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 TNNI3 pathogenic variants cause HCM through **altered gene product
 sequence**. The disease mechanism is not definitively known but a review
@@ -16436,7 +16435,7 @@ acid residues 125 - 210). (PMID: 26440512).<br/> Similarly, Walsh et al
 detected a cluster of non-truncating TNNI3 variants in HCM at amino acid
 residues 141-209 (PMID: 30696458).
 
-##### TNNT2
+#### TNNT2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -16647,7 +16646,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 TNNT2 pathogenic variants cause HCM through **altered gene product
 sequence**. Troponin T is a regulatory protein found in striated muscles
@@ -16687,7 +16686,7 @@ found a clustering of non-truncating variants conveying a high
 probability of pathogenicity in the tropomyosin binding domain (amino
 acid residues 79 - 179) (PMID: 30696458).
 
-##### TPM1
+#### TPM1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -16896,7 +16895,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 TPM1 pathogenic variants cause HCM through **altered gene product
 sequence**. TPM1 encodes alpha-tropomyosin which acts to place the
@@ -16927,7 +16926,7 @@ or nonsense mutations have been reported.’ (PMID: 24005378).<br/> Walsh
 et al found that in HCM non-truncating variants across the whole TPM1
 gene showed a high probability of pathogenicity. (PMID: 30696458)
 
-##### JPH2
+#### JPH2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -17136,13 +17135,13 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-##### TRIM63
+#### TRIM63
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -17351,13 +17350,13 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-##### MT-TI
+#### MT-TI
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -17566,13 +17565,13 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-##### KLHL24
+#### KLHL24
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -17781,15 +17780,15 @@ NA
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The gene disease validity assertion is ‘moderate’ from ClinGen. No
 inheritance or mechanism curations have been done in the absence of an
 established gene disease relationship.
 
-#### Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
+### Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 
-##### ALPK3
+#### ALPK3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -18000,7 +17999,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 ALPK3 pathogenic variants cause hypertrophic cardiomyopathy through
 **decreased gene product level or altered gene product sequence**.
@@ -18040,7 +18039,7 @@ in a conformational change that affects protein folding or flexibility,
 protein-protein or protein-DNA interaction, or the activity of the
 alpha-kinase domain (PMID: 32480058).
 
-##### CACNA1C
+#### CACNA1C
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -18251,7 +18250,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 CACNA1C-related Timothy syndrome is caused by variants leading to
 **altered gene product sequence**. <br/> Classic Timothy syndrome (TS1)
@@ -18289,7 +18288,7 @@ with isolated LQT (PMID: 26253506; 25633834; 24728418). However as of
 the strength of evidence supporting an association between CACNA1C and
 LQTS as moderate (PMID: 31983240).
 
-##### DES
+#### DES
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -18502,7 +18501,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 DES-related myofibrillar myopathy is typically inherited as an autosomal
 dominant condition. Penetrance is incomplete with age-related onset, but
@@ -18529,7 +18528,7 @@ disease to the dominant phenotype. The heterozygous parents of patients
 with the recessive phenotype are reported as being clinically
 unaffected, suggesting that heterozygous loss of function is tolerated.
 
-##### DES
+#### DES
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -18742,7 +18741,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 DES-related myofibrillar myopathy is typically inherited as an autosomal
 dominant condition. Penetrance is incomplete with age-related onset, but
@@ -18769,7 +18768,7 @@ disease to the dominant phenotype. The heterozygous parents of patients
 with the recessive phenotype are reported as being clinically
 unaffected, suggesting that heterozygous loss of function is tolerated.
 
-##### FHL1
+#### FHL1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -18979,7 +18978,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 FHL1-related Emery-Dreifuss muscular dystrophy is inherited as an
 **X-linked condition**. Carrier females are usually unaffected, but some
@@ -18996,7 +18995,7 @@ Emery-Dreifuss muscular dystrophy are more commonly associated with
 dilated cardiomyopathy.<br/> There are reports of FHL1 variants causing
 isolated hypertrophic cardiomyopathy, without skeletal myopathy.
 
-##### FLNC
+#### FLNC
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -19206,7 +19205,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 FLNC-related myofibrillar myopathy is inherited as an autosomal dominant
 condition with age-related onset. Myofibrillar myopathy and isolated
@@ -19222,7 +19221,7 @@ in FLNC have been associated with non-syndromic dilated and
 arrhythmogenic cardiomyopathy.<br/> Sequencing of FLNC exons 46-48 is
 complicated by the presence of a pseudogene with \>98% homology.
 
-##### GLA
+#### GLA
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -19437,7 +19436,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic GLA variants cause Fabry disease by **decreased gene product
 level or altered gene product sequence**. The disease mechanism is loss
@@ -19475,7 +19474,7 @@ of disease severity in FD patients or in the diagnostic algorithm for
 patients with GLA genetic variants of unknown significance.’ (PMID:
 32640076)
 
-##### LAMP2
+#### LAMP2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -19688,7 +19687,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic LAMP2 variants cause Danon disease. Danon disease follows
 X-linked inheritance, with high penetrance of cardiomyopathy (dilated or
@@ -19707,7 +19706,7 @@ mechanism has been suggested, with variants affecting exon 9b reported
 as causing a primarily skeletal muscle phenotype, with limited cardiac
 involvement.
 
-##### PRKAG2
+#### PRKAG2
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -19916,7 +19915,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 PRKAG2 pathogenic variants cause disease through **altered gene product
 sequence**. <br/> PRKAG2 syndrome is a rare, early-onset autosomal
@@ -19950,7 +19949,7 @@ Two commonly reported variants are C.905G\>A (p.Arg302Gln) and
 c.1463A\>T (p.Asn488Ile). Lopez-Sainz A et al found they were present in
 44% of the patients included in the cohort (PMID: 32646569).
 
-##### PTPN11
+#### PTPN11
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -20160,7 +20159,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 PTPN11-related Noonan syndrome is inherited as an autosomal dominant
 condition with variable expressivity. Pulmonary stenosis is the most
@@ -20186,7 +20185,7 @@ include Noonan syndrome with multiple lentigines (NSML, previously known
 as LEOPARD syndrome), caused by dominant-negative PTPN11 variants, and
 metachondromatosis, caused by loss-of-function PTPN11 variants.
 
-##### PTPN11
+#### PTPN11
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -20396,7 +20395,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Noonan syndrome with multiple lentigines (NSML, previously known as
 LEOPARD syndrome) is inherited as an autosomal dominant condition.
@@ -20417,7 +20416,7 @@ Allelic disorders include Noonan syndrome, caused by gain-of-function
 variants in PTPN11, and metachondromatosis, caused by loss-of-function
 PTPN11 variants.
 
-##### RAF1
+#### RAF1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -20627,7 +20626,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 RAF1 variants are responsible for ~5% of Noonan syndrome cases.
 RAF1-related Noonan syndrome is inherited as an autosomal dominant
@@ -20650,7 +20649,7 @@ patients with chromosomal duplications including RAF1, but their
 phenotype is relatively non-specific and there is no definitive evidence
 that whole-gene duplications cause Noonan syndrome.
 
-##### RIT1
+#### RIT1
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -20859,7 +20858,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 RIT1 variants are responsible for ~5% of Noonan syndrome cases.
 RIT1-related Noonan syndrome is inherited as an autosomal dominant
@@ -20876,7 +20875,7 @@ pathway. The precise mechanism by which missense variants lead to gain
 of function remains unclear. There is clustering of variants,
 particularly in the switch II region.
 
-##### TTR
+#### TTR
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -21086,7 +21085,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 The mechanism in TTR-related hereditary ATTR amyloidosis is due to
 **altered gene product sequence**.<br/> **The mechanism appears to be
@@ -21134,9 +21133,9 @@ tetramer stabiliser) and noted that other novel therapeutic targets
 including transthyretin gene silencers are currently under investigation
 (PMID: 32969287).
 
-#### Syndrome with hypertrophic cardiomyopathy - no isolated LVH
+### Syndrome with hypertrophic cardiomyopathy - no isolated LVH
 
-##### ABCC9
+#### ABCC9
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -21345,7 +21344,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 ABCC9 pathogenic variants cause Cantu Syndrome (CS) through **altered
 gene product sequence**. The mechanism is likely gain of function
@@ -21383,7 +21382,7 @@ potentially explaining the diverse disease features in patients with CS.
 The mechanisms resulting in the clinical manifestations of CS remain to
 be fully elucidated (PMIDs 33529173; 34453476).
 
-##### BAG3
+#### BAG3
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -21592,7 +21591,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 BAG3 pathogenic variants cause a rare subtype of myofibrillar myopathy
 through **altered gene product sequence**.<br/><br/> Of note, loss of
@@ -21623,7 +21622,7 @@ proteins. It is produced in response to stress and is thought to be
 essential for the survival of mature skeletal and heart muscle cells by
 inhibiting the activation of apoptosis (PMID 25728519).
 
-##### CRYAB
+#### CRYAB
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -21834,7 +21833,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 CRYAB-related alpha-crystallinopathy is typically inherited as an
 autosomal dominant condition with age-related penetrance.<br/><br/> The
@@ -21854,7 +21853,7 @@ associated with autosomal recessive congenital/early-onset cataracts and
 myopathy with respiratory involvement in early childhood, and the
 heterozygous parents of probands are reported as being healthy.
 
-##### FXN
+#### FXN
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -22067,7 +22066,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 FXN-related Friedreich ataxia is inherited as an autosomal recessive
 condition. It is characterised by a progressive ataxia usually
@@ -22094,7 +22093,7 @@ the case of the GAA triplet repeat), absent/decreased gene product
 (truncating variants, structural variants), or missense variants causing
 loss of function.
 
-##### GAA
+#### GAA
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -22311,7 +22310,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pompe disease is inherited as an autosomal recessive condition, caused
 by homozygous or compound heterozygous variants in GAA. Infantile-onset
@@ -22342,7 +22341,7 @@ Pompe disease, but has also been reported in the late-onset form. Our
 literature search did not identify cases presenting with isolated left
 ventricular hypertrophy (LVH).
 
-##### MYO6
+#### MYO6
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -22554,7 +22553,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 There is evidence from multiple reports that protein truncating and
 missense variants in MYO6 are associated with autosomal dominant
@@ -22592,7 +22591,7 @@ variants in this gene are at least considered in a patient presenting
 with hearing loss and LVH. Our literature search did not identify cases
 presenting with isolated LVH.
 
-##### MYO6
+#### MYO6
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -22804,7 +22803,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 There is evidence from multiple reports that protein truncating and
 missense variants in MYO6 are associated with autosomal dominant
@@ -22842,7 +22841,7 @@ variants in this gene are at least considered in a patient presenting
 with hearing loss and LVH. Our literature search did not identify cases
 presenting with isolated LVH.
 
-##### SLC25A4
+#### SLC25A4
 
 <table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
@@ -23052,7 +23051,7 @@ G2P gene disease pair entry date
 </tbody>
 </table>
 
-##### Narrative
+#### Narrative
 
 Pathogenic variants in SLC25A4 cause mitochondrial disease through
 **altered gene product sequence or absent gene product level**. SLC25A4

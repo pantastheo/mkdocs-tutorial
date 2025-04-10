@@ -15,7 +15,3 @@ plugins:
   - table-reader
   - pdf-export
   - awesome-nav
-nav:
-  - Home: single_document.md
-
-  
