@@ -1,4 +1,4 @@
-site_name: Cardiac Gene2Phenotype Gene Panel
+site_name: Cardiac Gene2Phenotype
 theme:
   name: readthedocs
 markdown_extensions:
@@ -12,4 +12,4 @@ plugins:
   - autolinks
   - table-reader
   - pdf-export
-  
+  - awesome-nav
