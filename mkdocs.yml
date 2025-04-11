@@ -15,6 +15,3 @@ plugins:
   - table-reader
   - pdf-export
   - awesome-nav
-
-nav:
-  - Cardiac Gene2Phenotype: index.md
