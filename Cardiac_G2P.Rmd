@@ -8,7 +8,7 @@ output:
 knit: (function(input, ...) {
   rmarkdown::render(
     input, 
-    output_dir="mkdocs-tutorial/docs/",
+    output_dir="docs/",
     output_file="index.md",
     clean=T, 
     output_format="github_document")
