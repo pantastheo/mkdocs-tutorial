@@ -5,10 +5,7 @@ theme:
     - navigation.top
 markdown_extensions:
   - toc:
-      toc_depth: 5
       permalink: true
-      baselevel: 2
-      separator: "_"
 plugins:
   - search
   - autolinks
