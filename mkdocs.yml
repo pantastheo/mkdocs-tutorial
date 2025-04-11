@@ -7,6 +7,3 @@ markdown_extensions:
       toc_depth: 6
 plugins:
   - search
-  - pdf-export
-  - awesome-nav
-  
