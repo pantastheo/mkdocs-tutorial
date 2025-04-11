@@ -13,4 +13,4 @@ plugins:
   - awesome-nav
 nav:
   - Cardiac Gene2Phenotype: 
-    - Home: index.md
+    - index.md
