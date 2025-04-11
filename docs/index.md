@@ -1,4 +1,3 @@
-
 # Overview
 
 CardiacG2P is an evidence-based dataset for inherited cardiac condition
@@ -12,7 +11,7 @@ locus.
 This dataset is also available through G2P
 <https://www.ebi.ac.uk/gene2phenotype>
 
-# Citation
+## Citation
 
 *Josephs, K.S., Roberts, A.M., Theotokis, P. et al. Beyond gene-disease
 validity: capturing structured data on inheritance, allelic requirement,
@@ -20,15 +19,13 @@ disease-relevant variant classes, and disease mechanism for inherited
 cardiac conditions. Genome Med 15, 86 (2023).*
 <https://doi.org/10.1186/s13073-023-01246-8>
 
-# Inherited Arrhythmia Syndromes
-
 ## Brugada Syndrome (BrS)
 
 ### Brugada Syndrome
 
 #### **SCN5A** - *BrS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -41,199 +38,201 @@ SCN5A
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 600163
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 BrS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Brugada Syndrome (BrS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Brugada Syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 SCN5A-related Brugada syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Intronic variants with functional evidence:
 NM_000335.5(SCN5A):c.3228+551T\>G (p.?)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_region_variant; splice_acceptor_variant; splice_donor_variant;
 missense_variant; inframe_deletion; inframe_insertion;
 stop_gained_NMD_triggering; frameshift_variant_NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 32850980; 9521325; 20564468; 32533946; 20031634; 17075016; 17442746;
 25905440; 11748104; 20129283; 29959160; 33164571; 33131149; 25829473;
 30203441; 32893267; 29798782; 39391988
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0011001
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 29.01.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21.07.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CMD1E
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10593
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -285,7 +284,7 @@ gain of late current and can lead to a mixed phenotype of LQTS and BrS
 
 #### **CALM1** - *CPVT* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -298,194 +297,196 @@ CALM1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 114180
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CPVT
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Catecholaminergic polymorphic ventricular tachycardia (CPVT)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Atypical CPVT phenotype
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CALM1-related Catecholaminergic polymorphic ventricular tachycardia
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typically de novo
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31170290; 26309258; 31983240; 24563457; 23040497; 25557436; 32929985
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0013966
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.01.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 19.05.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CALML2
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 1442
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -554,7 +555,7 @@ genes.
 
 #### **CALM2** - *CPVT* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -567,194 +568,196 @@ CALM2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 114182
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CPVT
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Catecholaminergic polymorphic ventricular tachycardia (CPVT)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Atypical CPVT phenotype
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CALM2-related Catecholaminergic polymorphic ventricular tachycardia
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typically de novo
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31170290; 26309258; 24917665; 31983240; 25557436; 27100291
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0017990
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.01.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 19.05.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 1445
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -824,7 +827,7 @@ highlighting the functional equivalence of these genes.
 
 #### **CALM3** - *CPVT* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -837,194 +840,196 @@ CALM3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 114183
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CPVT
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Catecholaminergic polymorphic ventricular tachycardia (CPVT)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Atypical CPVT phenotype
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CALM3-related Catecholaminergic polymorphic ventricular tachycardia
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typically de novo
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31170290; 31983240; 27516456
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0017990
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.01.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 19.05.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 1449
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -1094,7 +1099,7 @@ highlighting the functional equivalence of these genes.
 
 #### **TECRL** - *CPVT* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -1107,195 +1112,197 @@ TECRL
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 617242
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CPVT
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Catecholaminergic polymorphic ventricular tachycardia (CPVT)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Atypical CPVT phenotype
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TECRL-related Catecholaminergic polymorphic ventricular tachycardia
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 absent gene product; altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 loss of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Exon 2 deletion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; stop_gained_NMD_triggering;
 splice_donor_variant_NMD_triggering; exon_loss_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 33367594; 30790670; 32173957; 27861123
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0013529
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.01.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 19.05.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27365
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -1322,7 +1329,7 @@ phenotypes are much more typical of CPVT than LQTS.
 
 #### **TRDN** - *CPVT* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -1335,195 +1342,197 @@ TRDN
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 603283
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CPVT
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Catecholaminergic polymorphic ventricular tachycardia (CPVT)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Atypical CPVT phenotype
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TRDN-related Catecholaminergic polymorphic ventricular tachycardia
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 absent gene product; altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 loss of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Exon 2 deletion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; stop_gained_NMD_triggering;
 frameshift_variant_NMD_triggering; exon_loss_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25922419; 26768964; 22422768; 30479949; 26200674
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0014191
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.01.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 19.05.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12261
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -1548,7 +1557,7 @@ This, ‘triadin knockout syndrome’ can lead to variable phenotypes.
 
 #### **CASQ2** - *CPVT* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -1561,196 +1570,198 @@ CASQ2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 114251
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CPVT
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Catecholaminergic polymorphic ventricular tachycardia (CPVT)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Classic CPVT phenotype
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CASQ2-related Catecholaminergic polymorphic ventricular tachycardia
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_region_variant; missense_variant; stop_gained_NMD_triggering;
 splice_donor_variant_NMD_triggering; frameshift_variant_NMD_triggering;
 splice_acceptor_variant_NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16908766; 32693635; 12386154; 15176429; 21618644; 27157848
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012762
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.01.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 19.05.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 1513
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -1794,7 +1805,7 @@ phenotype positive individuals) (Gray et al, 2016, PMID: 27157848).
 
 #### **CASQ2** - *CPVT* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -1807,196 +1818,198 @@ CASQ2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 114251
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CPVT
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Catecholaminergic polymorphic ventricular tachycardia (CPVT)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Classic CPVT phenotype
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CASQ2-related Catecholaminergic polymorphic ventricular tachycardia
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 absent gene product; altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 loss of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_region_variant; missense_variant; stop_gained_NMD_triggering;
 splice_donor_variant_NMD_triggering; frameshift_variant_NMD_triggering;
 splice_acceptor_variant_NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16908766; 32693635; 12386154; 15176429; 21618644; 27157848
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012762
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.01.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 19.05.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 1513
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -2019,7 +2032,7 @@ missense variants with verified loss-of-function effects.
 
 #### **RYR2** - *CPVT* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -2032,195 +2045,197 @@ RYR2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 180902
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CPVT
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Catecholaminergic polymorphic ventricular tachycardia (CPVT)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Classic CPVT phenotype
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 RYR2-related Catecholaminergic polymorphic ventricular tachycardia
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Exon 3 deletion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; exon_loss_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31112425; 30696458; 11208676; 24394973; 17081562; 12093772; 17875969;
 29453246; 19216760; 23479668; 26018045
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0017990
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.01.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 19.05.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVD2
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10484
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-05-25T11:23:00Z
 </td>
 </tr>
@@ -2262,7 +2277,7 @@ PMID: 26018045; Mazzarotto et al, 2021, PMID: 33500567).
 
 #### **KCNH2** - *LQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -2275,114 +2290,116 @@ KCNH2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 152427
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial Long QT Syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 KCNH2-related Long QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant; inframe_deletion; inframe_insertion;
 stop_gained_NMD_triggering; frameshift_variant_NMD_triggering;
@@ -2390,10 +2407,10 @@ exon_loss_variant; duplication
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21185501; 18774102; 22995932; 10841244; 27262388; 29504689; 19841300;
 31983240; 24932360; 15840476; 25417810; 26320108; 19926013; 21185499;
 29650123; 32893267; 27761161; 10491368; 12621127; 21787999; 19716085;
@@ -2401,74 +2418,74 @@ PMIDs
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0013367
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 14.10.2020
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16.06.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQT2
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6251
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -2504,7 +2521,7 @@ interval and a higher incidence of cardiac events.
 
 #### **KCNQ1** - *LQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -2517,114 +2534,116 @@ KCNQ1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 607542
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial Long QT Syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 KCNQ1-related Long QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant; inframe_deletion; inframe_insertion;
 stop_gained_NMD_triggering; frameshift_variant_NMD_triggering;
@@ -2632,83 +2651,83 @@ exon_loss_variant; tandem_duplication
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27041150; 23591039; 9020846; 27868350; 23392653; 31983240; 11226272;
 25187895
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0100316
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 01.11.2020
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16.06.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQT;KCNA9
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6294
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -2752,7 +2771,7 @@ e.g. transmembrane regions and C-terminus domains (PMID: 32893267;
 
 #### **KCNQ1** - *LQTS* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -2765,114 +2784,116 @@ KCNQ1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 607542
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial Long QT Syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 KCNQ1-related Long QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant; inframe_deletion; inframe_insertion;
 stop_gained_NMD_triggering; frameshift_variant_NMD_triggering;
@@ -2880,83 +2901,83 @@ exon_loss_variant; tandem_duplication
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27041150; 23591039; 9020846; 27868350; 23392653; 31983240; 11226272;
 25187895
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0100316
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 01.11.2020
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16.06.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQT;KCNA9
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6294
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -3000,7 +3021,7 @@ e.g. transmembrane regions and C-terminus domains (PMID: 32893267;
 
 #### **SCN5A** - *LQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -3013,196 +3034,198 @@ SCN5A
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 600163
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial Long QT Syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 SCN5A-related Long QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion; inframe_insertion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21185501; 15840476; 27566755; 26320108; 22995932; 7889574; 29650123;
 31983240; 32893267; 11463728; 29798782; 21787999; 9927399; 29806494;
 19716085
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0011377
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 14.10.2020
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16.06.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CMD1E
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10593
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -3237,7 +3260,7 @@ function effects causing a mixed phenotype.
 
 #### **CACNA1C** - *LQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -3250,194 +3273,196 @@ CACNA1C
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 114205
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial Long QT Syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CACNA1C-related Long QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -3454,7 +3479,7 @@ established gene disease relationship.
 
 #### **CALM1** - *LQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -3467,194 +3492,196 @@ CALM1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 114180
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT syndrome with an atypical presentation
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CALM1-related Long QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typically de novo
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31170290; 31983240; 23388215; 26969752
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0014548
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 14.10.2020
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16.06.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CALML2
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 1442
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-26T11:53:00Z
 </td>
 </tr>
@@ -3710,7 +3737,7 @@ in the inter-EF hand I-II linker (n = 3, 33%).’
 
 #### **CALM2** - *LQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -3723,194 +3750,196 @@ CALM2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 114182
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT syndrome with an atypical presentation
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CALM2-related Long QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typically de novo
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31170290; 27765793; 31983240; 23388215; 26969752
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0014550
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 14.10.2020
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16.06.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 1445
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-26T11:53:00Z
 </td>
 </tr>
@@ -3966,7 +3995,7 @@ in the inter-EF hand I-II linker (n = 3, 33%).’
 
 #### **CALM3** - *LQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -3979,194 +4008,196 @@ CALM3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 114183
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT syndrome with an atypical presentation
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CALM3-related Long QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typically de novo
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31170290; 31983240; 23388215; 26969752
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0019171
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 14.10.2020
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16.06.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 1449
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-26T11:53:00Z
 </td>
 </tr>
@@ -4222,7 +4253,7 @@ in the inter-EF hand I-II linker (n = 3, 33%).’
 
 #### **TRDN** - *LQTS* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -4235,195 +4266,197 @@ TRDN
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 603283
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT syndrome with an atypical presentation
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TRDN-related Long QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-strong
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+STRONG
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 absent gene product
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 loss of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 frameshift_variant_NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 30649896; 22422768; 32402482; 25922419; 26768964; 31983240; 30479949;
 31437535; 26200674
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0019171
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 04.11..2020
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16.06.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12261
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -4458,7 +4491,7 @@ considered as pathogenic for LQTS.
 
 #### **CACNA1C** - *LQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -4471,196 +4504,198 @@ CACNA1C
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 114205
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndromic QT prolongation and cardiac arrhythmias
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CACNA1C-related Timothy syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typically de novo
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations; activating
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 A recurrent, de novo missense_variant causing Classic Timothy Syndrome
 has been described: NM_001167623.2(CACNA1C):c.1216G\>C (p.Gly406Arg)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 15863612; 15454078; 22106044; 26253506; 4728418; 31983240; NBK1403;
 30681346; 33797204; 16360093
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0010979
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11.11.2020
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16.06.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Skeleton;Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CACNA1C-IT2;CACNL1A1;CCHL1A1
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 1390
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-05-25T11:23:00Z
 </td>
 </tr>
@@ -4693,7 +4728,7 @@ an association between CACNA1C and LQTS as moderate (PMID: 31983240).
 
 #### **KCNE1** - *LQTS* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -4706,196 +4741,198 @@ KCNE1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 176261
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndromic QT prolongation and cardiac arrhythmias
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 KCNE1-related Jervell and Lange-Nielsen syndrome 2
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion; inframe_insertion;
 stop_gained_NMD_escaping
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 30461122; 9354783; NBK1405; 31941373; 9445165; 9328483; 10973849;
 19716085; 16461811
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012871
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 01.08.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 30.08.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Ear;Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6240
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2024-03-27T10:43:00Z
 </td>
 </tr>
@@ -4933,7 +4970,7 @@ classification.
 
 #### **KCNJ2** - *LQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -4946,196 +4983,198 @@ KCNJ2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 600681
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndromic QT prolongation and cardiac arrhythmias
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 KCNJ2-related Andersen-related Tawil syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion; inframe_insertion;
 stop_gained_NMD_escaping
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12163457; 16217063; 11371347; 32299589; 21493816; 31983240; 21148745;
 32947483; 32499698; 32843460
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0008222
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 01.05.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16.06.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6263
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-27T14:22:00Z
 </td>
 </tr>
@@ -5167,7 +5206,7 @@ with estimates of greater or equal to 80%.
 
 #### **KCNQ1** - *LQTS* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -5180,114 +5219,116 @@ KCNQ1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 607542
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Long QT Syndrome (LQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndromic QT prolongation and cardiac arrhythmias
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 KCNQ1-related Jervell and Lange-Nielsen syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 absent gene product; altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant; stop_gained_NMD_triggering;
 frameshift_variant_NMD_triggering; exon_loss_variant;
@@ -5295,83 +5336,83 @@ complex_structural_alteration
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27041150; 23591039; 9020846; 27868350; 23392653; 31983240; 11226272;
 25187895
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0024540
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 01.05.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16.06.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQT;KCNA9
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6294
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -5404,7 +5445,7 @@ JLNS.<br/> Note: heterozygous variants in KCNQ1 lead to dominant LQTS.
 
 #### **KCNH2** - *SQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -5417,122 +5458,124 @@ KCNH2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 152427
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 SQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Short QT Syndrome (SQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Classic SQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 KCNH2-related Short QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 29876509; 21130771; 30582453; 30175559; 29759541; 29016797; 9547387;
 18692916; 14676148; 25974115; 7889573; 30947366; 30496390; 19088443;
 30571592; 7736582; 29574456; 21310316; 15673388; 15828882; 31049424;
@@ -5540,74 +5583,74 @@ PMIDs
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012312
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21.07.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21.07.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQT2
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6251
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -5637,7 +5680,7 @@ loss-of-function variants in KCNH2 are associated with Long QT Syndrome
 
 #### **KCNJ2** - *SQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -5650,195 +5693,197 @@ KCNJ2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 600681
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 SQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Short QT Syndrome (SQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Classic SQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 KCNJ2 relared Short QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 19710529; 23440193; 24794859; 11410627; 15761194; 22155372; 29615871;
 19285083; 2479485
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012314
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21.07.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21.07.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6263
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -5862,7 +5907,7 @@ gene-disease validity can be found here:
 
 #### **KCNQ1** - *SQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -5875,196 +5920,198 @@ KCNQ1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 607542
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 SQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Short QT Syndrome (SQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Classic SQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 KCNQ1-related Short QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-strong
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+STRONG
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 gain of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Almost all evidence derived from: NM_000218.3(KCNQ1):c.421G\>A
 (p.Val141Met); NM_000218.3(KCNQ1):c.919G\>C (p.Val307Leu)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 28491751; 16109388; 24380499; 26279191; 29213224; 15159330; 26168993;
 25974115; 8900283; 28491547; 26346102; 8528244
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012313
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21.07.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21.07.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LQT;KCNA9
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6294
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -6095,7 +6142,7 @@ KCNQ1 are associated with Long QT Syndrome (LQTS).
 
 #### **SLC4A3** - *SQTS* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -6108,194 +6155,196 @@ SLC4A3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 106195
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 SQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Short QT Syndrome (SQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Classic SQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 SLC4A3-related Short QT syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NM_201574(SLC4A3):c.1109G\>A (p.Arg370His)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 29167417
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0000453
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21.07.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21.07.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11029
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -6326,7 +6375,7 @@ found here: <https://search.clinicalgenome.org/kb/genes/HGNC:11029>
 
 #### **SLC22A5** - *SQTS* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -6339,194 +6388,196 @@ SLC22A5
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 603377
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 SQTS
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Short QT Syndrome (SQTS)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndrome including shortened QT and cardiac arrhythmias
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 SLC22A5-related primary systemic carnitine deficiency
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31472821; 3009296; 26190315
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0008919
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21.07.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21.07.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Channelopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CDSP
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10969
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -6555,15 +6606,13 @@ individuals being investigated for possible SQTS. Further information on
 ClinGen gene-disease validity can be found here:
 <https://search.clinicalgenome.org/kb/genes/HGNC:10969>
 
-# Cardiomyopathy
-
 ## Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 
 ### Familial isolated arrhythmogenic cardiomyopathy
 
 #### **DSC2** - *ARVC* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -6576,198 +6625,200 @@ DSC2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 125645
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial isolated arrhythmogenic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 DSC2-related Arrhythmogenic right ventricular cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_region_variant; splice_acceptor_variant; splice_donor_variant;
 frameshift_variant; stop_gained; missense_variant; inframe_deletion;
 inframe_insertion; NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17963498; 33831308; 24070718; 17186466; 19863551; 24793512; 20031616;
 21636032; 23911551; 17033975; 34400560; 31028357; 23863954; 31402444;
 26310507
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012506
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 05.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DSC3
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 3036
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -6801,7 +6852,7 @@ PKP2-related ARVC (PMID: 34400560).
 
 #### **DSC2** - *ARVC* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -6814,198 +6865,200 @@ DSC2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 125645
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial isolated arrhythmogenic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 DSC2-related Arrhythmogenic right ventricular cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_region_variant; splice_acceptor_variant; splice_donor_variant;
 frameshift_variant; stop_gained; missense_variant; inframe_deletion;
 inframe_insertion; NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17963498; 33831308; 24070718; 17186466; 19863551; 24793512; 20031616;
 21636032; 23911551; 17033975; 34400560; 31028357; 23863954; 31402444;
 26310507
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012506
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 05.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DSC3
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 3036
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -7039,7 +7092,7 @@ PKP2-related ARVC (PMID: 34400560).
 
 #### **DSG2** - *ARVC* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -7052,196 +7105,198 @@ DSG2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 125671
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial isolated arrhythmogenic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 DSG2-related Arrhythmogenic right ventricular cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant; inframe_deletion; inframe_insertion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25616645; 33831308; 33917638; 24070718; 27532257; 30790397; 21636032;
 16505173; 34400560; 30454721; 27170944; 16823493
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012434
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 05.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 3049
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -7275,7 +7330,7 @@ and heart failure when compared to PKP2-related ARVC (PMID: 34400560;
 
 #### **DSG2** - *ARVC* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -7288,196 +7343,198 @@ DSG2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 125671
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial isolated arrhythmogenic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 DSG2-related Arrhythmogenic right ventricular cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant; inframe_deletion; inframe_insertion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25616645; 33831308; 33917638; 24070718; 27532257; 30790397; 21636032;
 16505173; 34400560; 30454721; 27170944; 16823493
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012434
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 05.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 3049
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -7511,7 +7568,7 @@ and heart failure when compared to PKP2-related ARVC (PMID: 34400560;
 
 #### **DSP** - *ARVC* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -7524,197 +7581,199 @@ DSP
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 125647
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial isolated arrhythmogenic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 DSP-related Arrhythmogenic right ventricular cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant; inframe_deletion; inframe_insertion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 33831308; 20716751; 27532257; 33275305; 27761164; 21636032; 31319917;
 32372669; 31514951; 23810894; 20940358; 22795705; 24503780; 26604139;
 23137101; 11063735; 32808748; 30382575
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0011831
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 05.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 3052
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -7774,7 +7833,7 @@ sarcoidosis (PMID: 32372669).
 
 #### **DSP** - *ARVC* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -7787,197 +7846,199 @@ DSP
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 125647
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial isolated arrhythmogenic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 DSP-related Arrhythmogenic right ventricular cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant; inframe_deletion; inframe_insertion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 33831308; 20716751; 27532257; 33275305; 27761164; 21636032; 31319917;
 32372669; 31514951; 23810894; 20940358; 22795705; 24503780; 26604139;
 23137101; 11063735; 32808748; 30382575
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0011831
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 05.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 3052
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -8037,7 +8098,7 @@ sarcoidosis (PMID: 32372669).
 
 #### **PKP2** - *ARVC* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -8050,196 +8111,198 @@ PKP2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 602861
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial isolated arrhythmogenic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 PKP2-related Arrhythmogenic right ventricular cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_region_variant; splice_acceptor_variant; splice_donor_variant;
 frameshift_variant; stop_gained; missense_variant; deletion; duplication
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17041889; 25616645; 33831308; 23736219; 24070718; 22781308; 20301310;
 24704780; 30619891; 28740174; 17010805; 21636032; 30830208; 34120153
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012180
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 14.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 05.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 9024
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -8280,7 +8343,7 @@ are classified as variants of uncertain significance.
 
 #### **TMEM43** - *ARVC* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -8293,195 +8356,197 @@ TMEM43
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 612048
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial isolated arrhythmogenic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TMEM43-related Arrhythmogenic right ventricular cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NM_024334.3(TMEM43):c.1073C\>T (p.Ser358Leu)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25343256; 29980933; 33831308; 32062046; 20301310; 22725725; 18313022;
 23812740; 21214875; 24598986; 21391237
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0011459
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 14.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 05.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVD5
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 28472
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -8518,7 +8583,7 @@ missense variants have been reported but their pathogenicity is debated.
 
 #### **DES** - *ARVC* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -8531,194 +8596,196 @@ DES
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 125660
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial isolated arrhythmogenic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 DES-related Arrhythmogenic right ventricular cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -8733,7 +8800,7 @@ established gene disease relationship.
 
 #### **PLN** - *ARVC* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -8746,194 +8813,196 @@ PLN
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 172405
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial isolated arrhythmogenic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 PLN -related Arrhythmogenic right ventricular cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -8950,7 +9019,7 @@ established gene disease relationship.
 
 #### **JUP** - *ARVC* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -8963,196 +9032,198 @@ JUP
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 173325
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Arrhythmogenic right ventricular cardiomyopathy (ARVC)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare familial disorder with ARVC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 JUP-related Naxos disease
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-strong
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+STRONG
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion; frameshift_variant_NMD_escaping
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25820315; 21320868; 25705887; 17924338; 10902626; 11691526; 20031617;
 21673311; 32966140; 8858175; 20130592; 28098346; 15851108; 8954745;
 31402444
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0011017
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 05.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CTNNG
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6207
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -9208,7 +9279,7 @@ variants however their pathogenicity is still debated (PMID: 25820315;
 
 #### **BAG3** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -9221,197 +9292,199 @@ BAG3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 603883
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 BAG3-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 missense_variant; stop_gained_NMD_triggering; exon_loss_variant;
 transcript_ablation
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25008357; 21353195; 21898660; 23518596; 31808029; 30442290; 26796036;
 31983221; 27391596; 32160020; 28737513; 20884878
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0013479
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 939
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -9439,7 +9512,7 @@ dominant trait, characterised by incomplete penetrance.
 
 #### **DES** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -9452,194 +9525,196 @@ DES
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 125660
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 DES-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; splice_acceptor_variant_NMD_escaping
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 23349452; 23300193; 10430757; 17626518; 26724190; 11728149; 17325244
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0011482
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2770
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -9664,7 +9739,7 @@ a very small proportion (estimated 2%) of genetically-explained DCM
 
 #### **DSP** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -9677,197 +9752,199 @@ DSP
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 125647
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 DSP-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 frameshift_variant; missense_variant; stop_gained_NMD_triggering;
 splice_donor_variant_NMD_triggering;
 splice_acceptor_variant_NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 20716751; 27532257; 31317183; 32005173; 24503780; 23022708; 31983221;
 32013205
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0005021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 06.08.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 01.02.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 3052
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2024-03-20T09:58:00Z
 </td>
 </tr>
@@ -9893,7 +9970,7 @@ appear to be distinct mechanisms leading to different phenotypes
 
 #### **FLNC** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -9906,197 +9983,199 @@ FLNC
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 102565
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 FLNC-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 loss of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; stop_gained_NMD_triggering;
 frameshift_variant_NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27601210; 31627847; 27206985; 22020047; 30067491; 27908349; 2843697;
 32154132; 32160020; 32150467
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0005021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 FLN2
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 3756
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -10126,7 +10205,7 @@ of onset in the late 4th or early 5th decade, +/- 10-15 years.
 
 #### **LMNA** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -10139,197 +10218,199 @@ LMNA
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 150330
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 LMNA-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by age-related onset
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 frameshift_variant; missense_variant; stop_gained_NMD_triggering;
 splice_donor_variant_NMD_triggering;
 splice_acceptor_variant_NMD_triggering; exon_loss_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11897440; 20127487; 29367541; 28912180; 10662742; 12854972; 10580070;
 31983221; 18926329; 29095976; 12920062
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0007269
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 30.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 LMNL1;PRO1;LGMD1B;LMN1;CMD1A
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6636
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -10362,7 +10443,7 @@ inheritance.
 
 #### **MYH7** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -10375,194 +10456,196 @@ MYH7
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 160760
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 MYH7-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 29093449; 29666183; 11106718; 31983221; 29300372
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0013262
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MPD1;CMH1
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 7577
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -10591,7 +10674,7 @@ additive effect resulting in more severe cardiomyopathic phenotypes.
 
 #### **PLN** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -10604,195 +10687,197 @@ PLN
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 172405
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 PLN-related Intrinsic Cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 frameshift_variant; stop_gained; missense_variant; inframe_deletion;
 exon_loss_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16432188; 12639993; 33020536; 21167350
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012362
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 24.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 PLB
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 9080
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -10832,7 +10917,7 @@ PLN and HCM and the variant classes associated needs to be undertaken.
 
 #### **RBM20** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -10845,196 +10930,198 @@ RBM20
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 613171
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 RBM20-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 There is a mutation hotspot in exon 9 (amino acids 634-638)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; stop_gained_NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 30871351; 25979592; 29367541; 19712804; 29895960; 32851336; 22466703;
 29650543; 26084686; 20590677; 27496873; 30871348; 22004663; 21846512;
 32789749
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0013168
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27424
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -11062,7 +11149,7 @@ variant hotspot in exon 9 (RS motif, amino acids 634-638).
 
 #### **SCN5A** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -11075,195 +11162,197 @@ SCN5A
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 600163
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 SCN5A-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; stop_gained_NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 15671429; 27532257; 26916278; 15466643; 19808398; 21596231; 22675453;
 22999724; 30847666
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0011003
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 06.08.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 01.02.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CMD1E
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10593
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2024-03-20T10:19:00Z
 </td>
 </tr>
@@ -11292,7 +11381,7 @@ also associated with Long QT syndrome.
 
 #### **TNNC1** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -11305,195 +11394,197 @@ TNNC1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 191040
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TNNC1-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 18212018; 19808376; 32038292; 1554228; 27532257; 17021793; 17977476;
 18803402; 20458010; 27604170
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012745
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 TNNC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11943
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -11520,7 +11611,7 @@ variants (PMID: 27604170).
 
 #### **TNNT2** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -11533,194 +11624,196 @@ TNNT2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 191045
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TNNT2-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11106718; 29367541; 27532257; 15542288; 20978592; 20031601
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0007267
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CMD1D;CMH2
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11949
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -11744,7 +11837,7 @@ restrictive cardiomyopathies.
 
 #### **TTN** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -11757,106 +11850,106 @@ TTN
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 188840
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TTN-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance; Typified by age-related onset
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Variants must occur in A-band or \>90% percentage spliced in (PSI)
 exons. Pathogenic missense variants are very rare. Missense variants
 with segregation evidence: NM_001267550.2(TTN):c.2926T\>C (p.Trp976Arg);
@@ -11865,94 +11958,96 @@ NM_001267550.2(TTN):c.11674T\>A (p.Cys3892Ser)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant; stop_gained_NMD_triggering;
 frameshift_variant_NMD_triggering; exon_loss_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 23418287; 9826585; 9817758; 25759365; 19789381; 25589632; 32160020;
 31849696; 18765796; 28045975; 27625337; 11788824; 37253077; 29316444;
 27869827; 29238064; 26084686; 32013205; 26315439; 22335739
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0011400
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 08.12.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CMD1G
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12403
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -11985,7 +12080,7 @@ functional expression in cardiac tissue.
 
 #### **ACTC1** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -11998,194 +12093,196 @@ ACTC1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 102540
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 ACTC1-related Dilated cardiomypathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -12200,7 +12297,7 @@ established gene disease relationship.
 
 #### **JPH2** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -12213,194 +12310,196 @@ JPH2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 605267
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 JPH2-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -12415,7 +12514,7 @@ established gene disease relationship.
 
 #### **NEXN** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -12428,194 +12527,196 @@ NEXN
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 613121
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 NEXN-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -12630,7 +12731,7 @@ established gene disease relationship.
 
 #### **TNNI3** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -12643,194 +12744,196 @@ TNNI3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 191044
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TNNI3-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -12845,7 +12948,7 @@ established gene disease relationship.
 
 #### **TPM1** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -12858,194 +12961,196 @@ TPM1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 191010
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TPM1-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -13060,7 +13165,7 @@ established gene disease relationship.
 
 #### **VCL** - *DCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -13073,194 +13178,196 @@ VCL
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 193065
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Dilated Cardiomyopathy (DCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 VCL-related Dilated cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -13279,7 +13386,7 @@ established gene disease relationship.
 
 #### **ACTC1** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -13292,195 +13399,197 @@ ACTC1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 102540
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 ACTC1-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10966831; 20031618; 17611253; 28972856; 27532257; 26061005; 10330430;
 28007147; 23604709
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012799
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ACTC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 143
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -13508,7 +13617,7 @@ arrangement of amino acids in the actomyosin binding site (PMID:
 
 #### **ACTN2** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -13521,197 +13630,199 @@ ACTN2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 102573
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 ACTN2-related cardiac and skeletal myopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 frameshift_variant_NMD_triggering; stop_gained_NMD_triggering;
 missense_variant; inframe_deletion; deletion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 34802252; 34526680; 20022194; 25224718; 25173926; 30630173; 31956495;
 31680489; 17097056; 27532257; 31983221; 33500567; 32973354; 30701273;
 30900782; 38311799; 39971408
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0000591
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2024
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17.03.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ClinGen HCVD GCEP
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 164
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -13780,7 +13891,7 @@ Cardiovascular Disease Gene Curation Expert Panel. Review date:
 
 #### **ALPK3** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -13793,195 +13904,197 @@ ALPK3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 617608
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 ALPK3-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-strong
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+STRONG
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 loss of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 stop_gained_variant; frameshift_variant; splice_donor_variant;
 splice_acceptor_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 33191771; 34263907; 34526680; 32480058; 39971408
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0054838
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2024
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17.03.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ClinGen HCVD GCEP
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17574
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-26T12:45:00Z
 </td>
 </tr>
@@ -14027,7 +14140,7 @@ Curation Expert Panel. Review date: 17/03/2025
 
 #### **CSRP3** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -14040,198 +14153,200 @@ CSRP3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 600824
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CSRP3-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 loss of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 frameshift_variant_NMD_triggering; stop_gained_NMD_triggering;
 splice_acceptor_variant; splice_donor_variant; missense_variant;
 inframe_deletion; inframe_insertion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 30012424; 31919335; 30681346; 28082330; 18505755; 33035702; 34526680;
 16352453; 15781201; 23396983; 26656175; 21425739; 12642359; 19035361;
 25351510; 23861362; 20087448; 34558151; 33012304; 37431535; 39971408
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012804
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2024
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17.03.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ClinGen HCVD GCEP
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2472
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -14267,7 +14382,7 @@ Cardiovascular Disease Gene Curation Expert Panel. Review date:
 
 #### **CSRP3** - *HCM* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -14280,198 +14395,200 @@ CSRP3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 600824
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CSRP3-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 loss of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 frameshift_variant_NMD_triggering; stop_gained_NMD_triggering;
 splice_acceptor_variant; splice_donor_variant; missense_variant;
 inframe_deletion; inframe_insertion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 30012424; 31919335; 30681346; 28082330; 18505755; 33035702; 34526680;
 16352453; 15781201; 23396983; 26656175; 21425739; 12642359; 19035361;
 25351510; 23861362; 20087448; 34558151; 33012304; 37431535; 39971408
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012804
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2024
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17.03.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ClinGen HCVD GCEP
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2472
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -14507,7 +14624,7 @@ Cardiovascular Disease Gene Curation Expert Panel. Review date:
 
 #### **FHOD3** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -14520,196 +14637,198 @@ FHOD3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 609691
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 FHOD3-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant_NMD_escaping; splice_donor_variant_NMD_escaping;
 missense_variant; inframe_deletion; inframe_insertion; exon_loss_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 19706596; 30442288; 29907873; 30898215; 31742804; 32335906; 33586461;
 34526680; 35288587; 38051749; 39971408
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0005045
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2024
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17.03.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ClinGen HCVD GCEP
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 26178
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -14749,7 +14868,7 @@ Disease Gene Curation Expert Panel. Review date: 17/03/2025
 
 #### **MYBPC3** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -14762,114 +14881,116 @@ MYBPC3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 600958
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 MYBPC3-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_region_variant; splice_acceptor_variant; splice_donor_variant;
 frameshift_variant; stop_gained; missense_variant; inframe_deletion;
 intron_variant; inframe_insertion; stop_gained_NMD_triggering;
@@ -14878,84 +14999,84 @@ splice_acceptor_variant_NMD_triggering; exon_loss_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25611685; 32163302; 30696458; 28912181; 27532257; 7493025; 31877118;
 17937428; 29300372; 32841044; 20624503; 28007147; 22057632; 12707239;
 18467358; 32731933; 26573135; 32396390; 19151713
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0007268
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CMH4
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 7551
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -14995,7 +15116,7 @@ several MYBPC3 founder variants (PMID: 28912181; 27532257).
 
 #### **MYH7** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -15008,196 +15129,198 @@ MYH7
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 160760
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 MYH7-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion; stop_gained_NMD_escaping
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25611685; 20359594; 34460321; 30696458; 25209314; 27532257; 1552912;
 29300372; 15856146; 1944483; 30924982; 1975517; 33500567; 12788380;
 30681346; 32731933; 27247418
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0008647
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MPD1;CMH1
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 7577
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-26T11:53:00Z
 </td>
 </tr>
@@ -15236,7 +15359,7 @@ ACMG criteria for MYH7 and HCM.
 
 #### **MYL2** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -15249,195 +15372,197 @@ MYL2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 160781
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 MYL2-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25611685; 25324513; 28912181; 30696458; 8673105; 32453731; 16076902;
 12404107; 9535554; 32731933; 24111713; 16837010; 23365102; 28007147
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012112
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 7583
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -15473,7 +15598,7 @@ variants, odds ratio 9.1 (6.2-13.3) (PMID: 30696458).
 
 #### **MYL3** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -15486,195 +15611,197 @@ MYL3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 160790
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 MYL3-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25611685; 12021217; 20031618; 22957257; 8673105; 30696458; 26443374;
 28369730; 33288880; 29914921
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012111
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 24.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 7584
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -15710,7 +15837,7 @@ variants in HCM at amino acid residues 143-180 (PMID: 30696458).
 
 #### **PLN** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -15723,195 +15850,197 @@ PLN
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 172405
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 PLN-related Intrinsic Cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 frameshift_variant; stop_gained; missense_variant; inframe_deletion;
 exon_loss_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16432188; 12639993; 33020536; 21167350
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012362
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 24.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 PLB
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 9080
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -15951,7 +16080,7 @@ PLN and HCM and the variant classes associated needs to be undertaken.
 
 #### **TNNC1** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -15964,195 +16093,197 @@ TNNC1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 191040
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TNNC1-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; frameshift_NMD_escaping
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11385718; 18572189; 21262074; 22815480; 26779504; 28771489; 29121657;
 29255176; 30775854; 34317385; 33658040; 34488226; 39971408
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0013195
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.10.2024
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17.03.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 ClinGen HCVD GCEP
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 TNNC
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11943
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -16181,7 +16312,7 @@ Panel. Review date: 17/03/2025
 
 #### **TNNI3** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -16194,195 +16325,197 @@ TNNI3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 191044
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TNNI3-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 21415410; 25611685; 30696458; 28912181; 32731933; 23270746; 9241277;
 21839045; 15607392; 26440512
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0013369
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 24.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CMD2A
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11947
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -16437,7 +16570,7 @@ residues 141-209 (PMID: 30696458).
 
 #### **TNNT2** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -16450,196 +16583,198 @@ TNNT2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 191045
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TNNT2-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion; stop_gained_NMD_escaping;
 splice_donor_variant_NMD_escaping
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 25611685; 22144547; 12707239; 28973951; 30696458; 28912181; 8205619;
 30578328; 32731933; 7898523; 11034944; 28007147; 10965086
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0007266
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 24.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CMD1D;CMH2
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11949
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-27T14:22:00Z
 </td>
 </tr>
@@ -16688,7 +16823,7 @@ acid residues 79 - 179) (PMID: 30696458).
 
 #### **TPM1** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -16701,194 +16836,196 @@ TPM1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 191010
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TPM1-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12860912; 7898523; 8205619; 24005378
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0007267
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10.10.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 24.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CMH3;C15orf13
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12010
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -16928,7 +17065,7 @@ gene showed a high probability of pathogenicity. (PMID: 30696458)
 
 #### **JPH2** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -16941,194 +17078,196 @@ JPH2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 605267
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 JPH2-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -17143,7 +17282,7 @@ established gene disease relationship.
 
 #### **TRIM63** - *HCM* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -17156,194 +17295,196 @@ TRIM63
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 606131
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TRIM63-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -17358,7 +17499,7 @@ established gene disease relationship.
 
 #### **MT-TI** - *HCM* - *Mitochondrial*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -17371,194 +17512,196 @@ MT-TI
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 590045
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 MT-TI-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 mitochondrial
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Mitochondrial
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -17573,7 +17716,7 @@ established gene disease relationship.
 
 #### **KLHL24** - *HCM* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -17586,194 +17729,196 @@ KLHL24
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 611295
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Familial hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 KLHL24-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
@@ -17790,7 +17935,7 @@ established gene disease relationship.
 
 #### **ALPK3** - *HCM* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -17803,196 +17948,198 @@ ALPK3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 617608
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 ALPK3-related Hypertrophic cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 34263907; 21441111; 33191771; 34263911; 32480058; 31074094; 27106955;
 26846950
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0054838
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 24.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 17574
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -18041,7 +18188,7 @@ alpha-kinase domain (PMID: 32480058).
 
 #### **CACNA1C** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -18054,196 +18201,198 @@ CACNA1C
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 114205
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CACNA1C-related Timothy syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typically de novo
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations; activating
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 A recurrent, de novo missense_variant causing Classic Timothy Syndrome
 has been described: NM_001167623.2(CACNA1C):c.1216G\>C (p.Gly406Arg)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 28211989; 25633834; 15863612; 15454078; 22106044; 26253506; 4728418;
 31983240; NBK1403; 30681346; 33797204; 16360093
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0010979
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 24.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Skeleton;Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CACNA1C-IT2;CACNL1A1;CCHL1A1
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 1390
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-05-25T11:23:00Z
 </td>
 </tr>
@@ -18290,7 +18439,7 @@ LQTS as moderate (PMID: 31983240).
 
 #### **DES** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -18303,114 +18452,116 @@ DES
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 125660
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 DES-related Myofibrillar myopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 absent gene product; altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion; stop_gained_NMD_triggering;
 stop_gained_NMD_escaping; frameshift_variant_NMD_triggering;
 splice_acceptor_variant_NMD_escaping; splice_donor_variant_NMD_escaping;
@@ -18418,83 +18569,83 @@ frameshift_variant_NMD_escaping
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 20718792; 11073539; 29926427; 19433360; 9736733; 31718026; 30681346;
 16217025; 23815709; 19181099
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0011076
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2770
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -18530,7 +18681,7 @@ unaffected, suggesting that heterozygous loss of function is tolerated.
 
 #### **DES** - *HCM* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -18543,114 +18694,116 @@ DES
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 125660
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 DES-related Myofibrillar myopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance; Typified by age-related onset
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 absent gene product; altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion; stop_gained_NMD_triggering;
 stop_gained_NMD_escaping; frameshift_variant_NMD_triggering;
 splice_acceptor_variant_NMD_escaping; splice_donor_variant_NMD_escaping;
@@ -18658,83 +18811,83 @@ frameshift_variant_NMD_escaping
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 20718792; 11073539; 29926427; 19433360; 9736733; 31718026; 30681346;
 16217025; 23815709; 19181099
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0011076
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2770
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -18770,7 +18923,7 @@ unaffected, suggesting that heterozygous loss of function is tolerated.
 
 #### **FHL1** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -18783,195 +18936,197 @@ FHL1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 300163
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 FHL1-related Emery Dreifuss muscular dystrophy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by age-related onset
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_region_variant; stop_lost; missense_variant;
 stop_gained_NMD_escaping; frameshift_variant_NMD_escaping
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 22523091; 19716112; 32993534; 20186852; 30681346
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0010680
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 3702
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -18997,7 +19152,7 @@ isolated hypertrophic cardiomyopathy, without skeletal myopathy.
 
 #### **FLNC** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -19010,195 +19165,197 @@ FLNC
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 102565
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 FLNC-related Myofibrillar myopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by age-related onset
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion; stop_gained_NMD_escaping
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31245841; 26666891; 21135393; 25351925; 15929027; 30681346; 27908349;
 32022900; 32112656; 20697107; 19050726
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012289
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 FLN2
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 3756
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -19223,7 +19380,7 @@ complicated by the presence of a pseudogene with \>98% homology.
 
 #### **GLA** - *HCM* - *X-linked recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -19236,115 +19393,117 @@ GLA
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 300644
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 GLA-related Fabry disease
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_X_hem
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 X-linked recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 A recurrent intronic variant NM_000169.3(GLA):c.640-801G\>A is
 recognised as pathogenic and leads to aberrant mRNA splicing
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant; inframe_deletion; intron_variant;
 inframe_insertion; stop_gained_NMD_triggering;
@@ -19353,83 +19512,83 @@ splice_acceptor_variant_NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 34776082; 30988410; 18940466; 6023233; 27560961; 26937390; 34576250;
 32640076; 2539398; 11322659
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0010526
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 15.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 24.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 4296
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -19476,7 +19635,7 @@ patients with GLA genetic variants of unknown significance.’ (PMID:
 
 #### **LAMP2** - *HCM* - *X-linked dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -19489,114 +19648,116 @@ LAMP2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 309060
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 LAMP2-related Danon disease
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_X_het
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 X-linked dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by age-related onset
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_region_variant; start_lost; missense_variant;
 stop_gained_NMD_triggering; splice_donor_variant_NMD_triggering;
 frameshift_variant_NMD_triggering;
@@ -19604,83 +19765,83 @@ splice_acceptor_variant_NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 19057086; 30681346; 19588270; 20173215; 10972294; 15673802; 30857840;
 15907287; 16217705
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0010281
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 6501
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -19708,7 +19869,7 @@ involvement.
 
 #### **PRKAG2** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -19721,194 +19882,196 @@ PRKAG2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 602743
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 PRKAG2-related cardiomyopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_insertion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 28009297; 11371514; 26729852; 12015471; 32646569; 32259713; 32646570
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0010946
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 20.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 24.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 9386
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-04-25T12:45:00Z
 </td>
 </tr>
@@ -19951,7 +20114,7 @@ c.1463A\>T (p.Asn488Ile). Lopez-Sainz A et al found they were present in
 
 #### **PTPN11** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -19964,195 +20127,197 @@ PTPN11
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 176876
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 PTPN11-related Noonan syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 15521065; 21533187; 24739123; 16358218; 30681346; 25974318; 15240615;
 14974085; 18348260; 21269411; 11992261; 19760651; 23312968
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0008104
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NS1
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 9644
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-05-25T11:23:00Z
 </td>
 </tr>
@@ -20187,7 +20352,7 @@ metachondromatosis, caused by loss-of-function PTPN11 variants.
 
 #### **PTPN11** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -20200,195 +20365,197 @@ PTPN11
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 176876
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 PTPN11-related Noonan syndrome with multiple lentigines
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 16377799; 15121796; 12161596; 16358218; 12058348; 33354767; 11992261;
 17697839
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0100082
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NS1
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 9644
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-05-25T11:23:00Z
 </td>
 </tr>
@@ -20418,7 +20585,7 @@ PTPN11 variants.
 
 #### **RAF1** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -20431,195 +20598,197 @@ RAF1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 164760
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 RAF1-related Noonan syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 29271604; 17603483; 30681346; 25974318; 17603482; 22786616; 24782337;
 30762279
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0012690
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 9829
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-05-25T11:23:00Z
 </td>
 </tr>
@@ -20651,7 +20820,7 @@ that whole-gene duplications cause Noonan syndrome.
 
 #### **RIT1** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -20664,194 +20833,196 @@ RIT1
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 609591
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 RIT1-related Noonan syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 26446362; 27101134; 30681346; 25959749; 23791108
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0014143
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 RIT
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10023
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2022-05-25T11:23:00Z
 </td>
 </tr>
@@ -20877,7 +21048,7 @@ particularly in the switch II region.
 
 #### **TTR** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -20890,195 +21061,197 @@ TTR
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 176300
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Rare syndromic disorder with hypertrophic cardiomyopathy - isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 TTR-related hereditary ATTR amyloidosis
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by incomplete penetrance
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; inframe_deletion; inframe_insertion
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 32969287; 25604431; 9191784; 28213611; 15185500; 29941560; 30328212;
 15930086
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0019441
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 PALB;CTS1
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12405
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2024-03-26T10:43:00Z
 </td>
 </tr>
@@ -21137,7 +21310,7 @@ including transthyretin gene silencers are currently under investigation
 
 #### **ABCC9** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -21150,194 +21323,196 @@ ABCC9
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 601439
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndrome with hypertrophic cardiomyopathy - no isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 ABCC9-related Cantu Syndrome
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 gain of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 31828977; 22608503; 34453476; 33529173; 31175705; 22610116; 30089727
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0009406
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 13.01.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DDG2P team
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 60
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2023-05-17T13:51:00Z
 </td>
 </tr>
@@ -21384,7 +21559,7 @@ be fully elucidated (PMIDs 33529173; 34453476).
 
 #### **BAG3** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -21397,194 +21572,196 @@ BAG3
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 603883
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndrome with hypertrophic cardiomyopathy - no isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 BAG3-related Myofibrillar myopathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typically de novo
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NM_004281.4(BAG3):c.626C\>T (p.Pro209Leu)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 23995273; 20605452; 32453099; 22734908; 25728519; 19085932; 21361913
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0018943
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 12.01.2022
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiomyopathy expert panel
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 939
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2023-05-17T13:52:00Z
 </td>
 </tr>
@@ -21624,7 +21801,7 @@ inhibiting the activation of apoptosis (PMID 25728519).
 
 #### **CRYAB** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -21637,196 +21814,198 @@ CRYAB
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 123590
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndrome with hypertrophic cardiomyopathy - no isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 CRYAB-related Alpha-related B crystallinpathy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by age-related onset
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 undetermined non-loss-of-function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 missense_variant; stop_gained_NMD_escaping;
 frameshift_variant_NMD_escaping; stop_lost
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 14681890; 21130652; 21337604; 570292; 28493373; 9731540; 30681346;
 32420686; 21920752; 38212463; 33272090
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0013472
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 13.01.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DDG2P team
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 CRYA2
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2389
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2023-05-17T13:51:00Z
 </td>
 </tr>
@@ -21855,7 +22034,7 @@ heterozygous parents of probands are reported as being healthy.
 
 #### **FXN** - *HCM* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -21868,114 +22047,116 @@ FXN
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 606829
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndrome with hypertrophic cardiomyopathy - no isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 FXN-related Friedreich ataxia
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by age-related onset
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 loss of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_region_variant; start_lost; inframe_deletion; inframe_insertion;
 splice_donor_variant_NMD_triggering; frameshift_variant_NMD_triggering;
 splice_acceptor_variant_NMD_triggering; trinucleotide_repeat_expansion;
@@ -21983,83 +22164,83 @@ exon_loss_variant; transcript_ablation
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 28405347; 25566998; 30681346; 24705334; 10633128; 22409940; 26704351;
 22691228
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0100339
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 13.01.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DDG2P team
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 FRDA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 3951
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2023-05-17T13:51:00Z
 </td>
 </tr>
@@ -22095,7 +22276,7 @@ loss of function.
 
 #### **GAA** - *HCM* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -22108,116 +22289,118 @@ GAA
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 606800
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndrome with hypertrophic cardiomyopathy - no isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 GAA-related Pompe disease
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 loss of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 restricted repertoire of mutations
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 A specific 5’ UTR variant, NM_000152.5(GAA):c.-32-13T\>G, ClinVar
 variation ID 4027 has been reported in 40-70% of the alleles in patients
 affected with late onset disease (PMID 24150945; 7881425).
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_region_variant; splice_acceptor_variant_NMD_triggering;
 splice_donor_variant_NMD_triggering; start_lost;
 frameshift_variant_NMD_escaping; frameshift_variant_NMD_triggering;
@@ -22226,84 +22409,84 @@ transcript_ablation; 5_prime_UTR_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 1680134; 1856189; 9668092; 14643388; 19588081; 31254424; 9535769;
 8094613; 1652892; 7717400; 20882352; 30681346; 21484825; 11991748;
 7981676; 10973860; 28185884; 31342611; 4286143; 17056254; 3108320
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0009290
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 13.01.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DDG2P team
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 4065
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2023-05-17T13:51:00Z
 </td>
 </tr>
@@ -22343,7 +22526,7 @@ ventricular hypertrophy (LVH).
 
 #### **MYO6** - *HCM* - *Autosomal dominant*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -22356,197 +22539,199 @@ MYO6
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 600970
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndrome with hypertrophic cardiomyopathy - no isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 MYO6-related nonsyndromic genetic hearing loss with left ventricular
 hypertrophy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 monoallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal dominant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by age-related onset
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 26265212; 15060111; 30681346; 18348273; 23485424; 12687499; 25999546;
 24105371
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0019497
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 13.01.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DDG2P team
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DFNB37;DFNA22
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 7605
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2023-05-17T13:51:00Z
 </td>
 </tr>
@@ -22593,7 +22778,7 @@ presenting with isolated LVH.
 
 #### **MYO6** - *HCM* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -22606,197 +22791,199 @@ MYO6
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 600970
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndrome with hypertrophic cardiomyopathy - no isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 MYO6-related nonsyndromic genetic hearing loss with left ventricular
 hypertrophy
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-moderate
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+MODERATE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Typified by age-related onset
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 altered gene product sequence; decreased gene product level
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_acceptor_variant; splice_donor_variant; frameshift_variant;
 stop_gained; missense_variant
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 26265212; 15060111; 30681346; 18348273; 23485424; 12687499; 25999546;
 24105371
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0019497
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 27.03.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 13.01.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DDG2P team
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DFNB37;DFNA22
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 7605
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2023-05-17T13:52:00Z
 </td>
 </tr>
@@ -22843,7 +23030,7 @@ presenting with isolated LVH.
 
 #### **SLC25A4** - *HCM* - *Autosomal recessive*
 
-<table class="table table-striped table-condensed" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-responsive" style="font-size: 12px; font-family: sans-serif; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:left;font-weight: bold;font-size: 14px;">
@@ -22856,195 +23043,197 @@ SLC25A4
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Gene mim
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 103220
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 HCM
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Referral indication
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Hypertrophic Cardiomyopathy (HCM)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease grouping
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Syndrome with hypertrophic cardiomyopathy - no isolated LVH
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; font-weight: bold;">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Disease name
 </td>
-<td style="text-align:left;font-weight: bold;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 SLC25A4-related Mitochondrial disease
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
 Gene disease validity (ClinGen)
 </td>
-<td style="text-align:left;">
-definitive
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;font-weight: bold;">
+DEFINITIVE
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Allelic requirement
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 biallelic_autosomal
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Autosomal recessive
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Inheritance modifiers
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease-associated variant consequence
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 absent gene product; altered gene product sequence
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mechanism
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 loss of function
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Mutation consequence flag
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Restricted repertoire of pathogenic variants
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 NA
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Variant classes reported with evidence of pathogenicity
+<a href="#other-potentially-relevant-variant-classes">(Other potentially
+relevant variant classes)</a>
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 splice_donor_variant; missense_variant;
 frameshift_variant_NMD_triggering
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 PMIDs
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 22187496; 30013777; 16155110; 23401503; 25732997; 27693233
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Disease accession
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 MONDO:0044970
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Curated date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 11.11.2021
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel review date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 13.01.2025
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Expert panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 DDG2P team
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Organ specificity list
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Heart/Cardiovasculature/Lymphatic
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Panel
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 Cardiac
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 Prev symbols
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 PEO3;PEO2;ANT1
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 HGNC ID
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 10990
 </td>
 </tr>
 <tr>
-<td style="text-align:left;width: 6cm; ">
+<td style="text-align:left;width: 8cm; word-wrap: break-word; white-space: normal;">
 G2P gene disease pair entry date
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10cm; word-wrap: break-word; white-space: normal;">
 2023-05-17T13:52:00Z
 </td>
 </tr>
@@ -23078,7 +23267,7 @@ function (<PMID:16155110>; <PMID:22187496>; <PMID:25732997>). Thompson
 et al found that 3 previously reported recessive variants resulted in
 \<1% transport activity compared to wild-type (PMID 27693233).
 
-# Other potentially relevant variant classes
+## Other potentially relevant variant classes
 
 Which variant classes should I filter for? The main table shows variant
 classes that have been reported to cause disease. We would expect other
@@ -23233,8 +23422,8 @@ inframe_deletion
 <tr>
 <td style="padding: 0; " colspan="100%">
 <sup></sup> Variant classes with a likelihood score of ‘3:possible’,
-‘4:probable’ and ‘5:almost always’ for the different disease associated
-variant consequences, see Tables 2 and 3 from Roberts et al.
+‘4:probable’ and ‘5:almost always’ <br>For the different disease
+associated variant consequences, see Tables 2 and 3 from Roberts et al.
 </td>
 </tr>
 </tfoot>
