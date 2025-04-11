@@ -9,10 +9,10 @@ This dataset is also available through G2P https://www.ebi.ac.uk/gene2phenotype
 
 ## Files in this repo
  - Cardiac_G2P.csv ~ Contains all raw cardiac data and genes with narrative summaries in a csv file format.
- - Cardiac_G2P.Rmd ~ R markdown document to read the raw data in the CardiacG2P.csv file and generate the reports.
+ - Cardiac_G2P.Rmd ~ R markdown document to read the raw data in the CardiacG2P.csv file and generate the markdown report and documentation.
 
 ## How to use
-The easiest way to regenerate the html or the markdown reports locally would be to clone the repository and simply knit the `Cardiac_G2P_curations.Rmd` file in Rstudio  
+The easiest way to regenerate the markdown report locally would be to clone the repository and simply knit the `Cardiac_G2P.Rmd` file in Rstudio  
 
 ## Terminology
 Inheritance, allelic requirement, and disease-associated variant consequences (as a proxy for disease mechanism), are described using previously agreed standardised terms developed by the GenCC.
