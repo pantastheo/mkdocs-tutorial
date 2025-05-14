@@ -19557,6 +19557,4 @@ PN, Rath A, Sant DW, Stark Z, Whiffin N, Rehm HL, Ware JS. Toward robust
 clinical genome interpretation: Developing a consistent terminology to
 characterize Mendelian disease-gene relationships-allelic requirement,
 inheritance modes, and disease mechanisms. Genet Med. 2024
-Feb;26(2):101029. doi: 10.1016/j.gim.2023.101029. Epub 2023 Nov 17.
-PMID: 37982373; PMCID: PMC11039201;*
-<https://doi.org/10.1016/j.gim.2023.101029>
+Feb;26(2):101029* <https://doi.org/10.1016/j.gim.2023.101029>
