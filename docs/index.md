@@ -19397,7 +19397,7 @@ NMD_triggering frameshift cause disease, then NMD_triggering nonsense
 probably do too). This table below shows the full list of variant
 classes mapped to each variant consequence.
 
-<table class="table table-striped table-condensed" style="margin-left: auto; margin-right: auto;border-bottom: 0;">
+<table class="table table-striped table-condensed" style="font-size: 12px; margin-left: auto; margin-right: auto;border-bottom: 0;">
 <thead>
 <tr>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="3">
@@ -19557,4 +19557,4 @@ PN, Rath A, Sant DW, Stark Z, Whiffin N, Rehm HL, Ware JS. Toward robust
 clinical genome interpretation: Developing a consistent terminology to
 characterize Mendelian disease-gene relationships-allelic requirement,
 inheritance modes, and disease mechanisms. Genet Med. 2024
-Feb;26(2):101029* <https://doi.org/10.1016/j.gim.2023.101029>
+Feb;26(2):101029.* <https://doi.org/10.1016/j.gim.2023.101029>

@@ -151,14 +151,15 @@ tibble(Decreased_gene_product_level,Absent_gene_product_level,Altered_gene_produ
   kbl(full_width = T,
       booktabs = TRUE) %>% 
   add_header_above(c("Disease-associated variant consequence" = 3))%>%
-  kable_styling(bootstrap_options = c("striped", "condensed", "scale_down")) %>% 
+  kable_styling(font_size =12,
+                bootstrap_options = c("striped", "condensed", "scale_down")) %>% 
   footnote(general = "Variant classes with a likelihood score of '3:possible', '4:probable' and '5:almost always' \nFor the different disease associated variant consequences, see Tables 2 and 3 from Roberts et al.",
            footnote_as_chunk = F, title_format = c("italic", "underline"))
 
 
 ```
 
-*Roberts AM, DiStefano MT, Riggs ER, Josephs KS, Alkuraya FS, Amberger J, Amin M, Berg JS, Cunningham F, Eilbeck K, Firth HV, Foreman J, Hamosh A, Hay E, Leigh S, Martin CL, McDonagh EM, Perrett D, Ramos EM, Robinson PN, Rath A, Sant DW, Stark Z, Whiffin N, Rehm HL, Ware JS. Toward robust clinical genome interpretation: Developing a consistent terminology to characterize Mendelian disease-gene relationships-allelic requirement, inheritance modes, and disease mechanisms. Genet Med. 2024 Feb;26(2):101029* <https://doi.org/10.1016/j.gim.2023.101029>
+*Roberts AM, DiStefano MT, Riggs ER, Josephs KS, Alkuraya FS, Amberger J, Amin M, Berg JS, Cunningham F, Eilbeck K, Firth HV, Foreman J, Hamosh A, Hay E, Leigh S, Martin CL, McDonagh EM, Perrett D, Ramos EM, Robinson PN, Rath A, Sant DW, Stark Z, Whiffin N, Rehm HL, Ware JS. Toward robust clinical genome interpretation: Developing a consistent terminology to characterize Mendelian disease-gene relationships-allelic requirement, inheritance modes, and disease mechanisms. Genet Med. 2024 Feb;26(2):101029.* <https://doi.org/10.1016/j.gim.2023.101029>
 
 ```{r session_info, message=FALSE, warning=FALSE, include=FALSE}
 
