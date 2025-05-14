@@ -37,9 +37,9 @@ g2p_raw |> write_csv("Cardiac_G2P.csv",col_names = T,quote = "all")
 
 ```{r read_csv, message=FALSE, warning=FALSE, include=FALSE}
 
-g2p <- read_csv("Cardiac_G2P.csv",col_names = T)
+g2p <- read_csv("Cardiac_G2P.csv",col_names = T, col_types = cols(.default = "c"))
 
-g2p <- g2p_raw |> 
+g2p <- g2p |> 
   mutate(Indication = str_remove_all(str_extract_all(`Referral indication`, "\\(([^)]+)\\)"),"[()]"),.after = 2) |>
   relocate(comments,Narrative2,.after=last_col())|>
   rename_with(~ str_to_sentence(.x))|>
@@ -47,6 +47,7 @@ g2p <- g2p_raw |>
          "HGNC ID"=`Hgnc id`,
          "G2P gene disease pair entry date"=`G2p gene disease pair entry date`,
          "Gene disease validity (ClinGen)"=`Gene disease validity (clingen)`)|>
+  mutate(`HGNC ID` = as.character(`HGNC ID`))|>
   mutate(across(everything(), ~replace_na(.x, "NA")))|>
   mutate(Indication = factor(Indication, levels = c("BrS","CPVT","LQTS","SQTS", "ARVC", "DCM", "HCM")))|>
   arrange(Indication, `Disease grouping`)|>
@@ -82,8 +83,9 @@ cat(paste0("### ",disease_group," \n\n"))
 
 
 for (i in 1:nrow(g2p)){
-  #i=1
-  gene <- g2p[i,] %>% select(-last_col()) %>% pivot_longer(everything()) %>% set_names(slice(.,1)) %>% slice(.,-1) %>% as_tibble()
+  i=1
+  # gene <- g2p[i,] %>% select(-last_col()) %>% pivot_longer(everything()) %>% set_names(slice(.,1)) %>% slice(.,-1) %>% as_tibble()
+  gene <- g2p[i,] %>% select(-c(21:26)) %>% pivot_longer(everything()) %>% set_names(slice(.,1)) %>% slice(.,-1) %>% as_tibble()
 
   gene[14,1]<- paste0(gene[14,1]," <a href='#other-potentially-relevant-variant-classes'>(Other potentially relevant variant classes)</a>")
 
@@ -156,7 +158,7 @@ tibble(Decreased_gene_product_level,Absent_gene_product_level,Altered_gene_produ
 
 ```
 
-*Roberts AM, DiStefano MT, Rooney Riggs E, Josephs KS, Alkuraya FS, Amberger J, et al. Towards robust clinical genome interpretation: developing a consistent terminology to characterize disease-gene relationships - allelic requirement, inheritance modes and disease mechanisms. MedRxiv. 2023;* <https://doi.org/10.1101/2023.03.30.23287948>
+*Roberts AM, DiStefano MT, Riggs ER, Josephs KS, Alkuraya FS, Amberger J, Amin M, Berg JS, Cunningham F, Eilbeck K, Firth HV, Foreman J, Hamosh A, Hay E, Leigh S, Martin CL, McDonagh EM, Perrett D, Ramos EM, Robinson PN, Rath A, Sant DW, Stark Z, Whiffin N, Rehm HL, Ware JS. Toward robust clinical genome interpretation: Developing a consistent terminology to characterize Mendelian disease-gene relationships-allelic requirement, inheritance modes, and disease mechanisms. Genet Med. 2024 Feb;26(2):101029. doi: 10.1016/j.gim.2023.101029. Epub 2023 Nov 17. PMID: 37982373; PMCID: PMC11039201;* <https://doi.org/10.1016/j.gim.2023.101029>
 
 ```{r session_info, message=FALSE, warning=FALSE, include=FALSE}
 
