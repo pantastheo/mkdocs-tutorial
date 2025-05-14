@@ -83,7 +83,7 @@ cat(paste0("### ",disease_group," \n\n"))
 
 
 for (i in 1:nrow(g2p)){
-  i=1
+  # i=1
   # gene <- g2p[i,] %>% select(-last_col()) %>% pivot_longer(everything()) %>% set_names(slice(.,1)) %>% slice(.,-1) %>% as_tibble()
   gene <- g2p[i,] %>% select(-c(21:26)) %>% pivot_longer(everything()) %>% set_names(slice(.,1)) %>% slice(.,-1) %>% as_tibble()
 
