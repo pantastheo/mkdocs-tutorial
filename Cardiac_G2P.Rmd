@@ -107,7 +107,6 @@ for (i in 1:nrow(g2p)){
   }
   
   # Gene symbol - id
-  # cat(paste0("##### ",g2p[i, 1]," \n\n"))
   cat(paste0("#### **",g2p[i, 1],"** - *",g2p[i, 3],"* - *",g2p[i, 9],"* \n\n"))
 
   # print gene text
