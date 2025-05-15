@@ -9,7 +9,7 @@ disease mechanism (represented as a disease-associated variant
 consequence), and known disease-relevant variant classes at a defined
 locus.
 
-# How to use
+## How to use
 
 The Cardiac G2P Gene Panel can be downloaded in a csv file format
 [here](Cardiac_G2P.csv) This dataset is also available through the
